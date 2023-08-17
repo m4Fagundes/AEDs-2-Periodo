@@ -1,0 +1,20 @@
+public class q8 {
+    public static void main(String[] args){
+        byte b =0; 
+        short s = 0;
+        int i =0;
+        long l =0;
+
+        boolean controlador = true;
+
+        while(controlador){
+            b++;
+            s++;
+            i++;
+            l++;
+            System.out.println(b+" "+s+" "+ i+" "+l);
+            controlador = false;
+        }
+    }
+}
+// vai ser printado 1 1 1 1

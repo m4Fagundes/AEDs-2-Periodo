@@ -1,0 +1,1 @@
+E printado na tela [46 - 11] pq fui usado "" para concatenar os [] e o - junto com as vareaveis.

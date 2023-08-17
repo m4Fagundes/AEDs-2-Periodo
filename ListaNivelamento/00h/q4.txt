@@ -1,0 +1,1 @@
+Quando n = 1 vai ser a condicao de chamada, a chamada recursiva e no retur n * (n-1)

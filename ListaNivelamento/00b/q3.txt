@@ -1,0 +1,1 @@
+E um codigo que usa valores da tabela ASCII para realizar uma comparacao
