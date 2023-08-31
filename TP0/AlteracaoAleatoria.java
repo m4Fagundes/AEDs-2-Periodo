@@ -30,6 +30,9 @@ public class AlteracaoAleatoria {
             randon.toString();
             System.out.println(randon);
             
+            scanner.close();
+
+
         }
     }
 }

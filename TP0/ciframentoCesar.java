@@ -5,32 +5,29 @@
  */
 
 
-import java.util.*;
+import java.util.Scanner;
 
 public class ciframentoCesar {
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-        while (true) {
-            Scanner scanner = new Scanner(System.in);
-
-            int key=3;
-            String frase = scanner.nextLine();
-            char[] sifra = new char[frase.length()];
-            int segurador;
-            
-            if(frase.equals("FIM")) break;
-
+        String frase = scanner.nextLine();
+        while (!frase.equals("FIM")) {
+            int key = 3;
+            String sifra = "";
 
             for(int i=0; i<frase.length(); i++){
-                segurador = ((int)frase.charAt(i))+key;
-                sifra[i] = (char)segurador;
+                if(frase.charAt(i) <'a' && frase.charAt(i) > 'z' && frase.charAt(i) <'A' && frase.charAt(i) > 'Z' && frase.charAt(i) <'0' && frase.charAt(i) > '9'){
+                    sifra+= '�';
+                } else
+                sifra += (char)(((int)frase.charAt(i)) + key);
             }
-            sifra.toString();
+
             System.out.println(sifra);
-            scanner.close();
-
-
+            frase = scanner.nextLine();
         }
+ 
+        scanner.close();
     }
 }
