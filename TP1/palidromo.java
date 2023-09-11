@@ -33,5 +33,6 @@ public class palidromo {
         StringBuilder palavraI = new StringBuilder(palavra);
         palavraI.reverse();
         return palavra.equals(palavraI.toString());
+        sys
     }
 }
