@@ -164,53 +164,155 @@ public class TP02Q09 {
 
         Jogador[] players = new Jogador[3923]; // objeto que vai receber os jogadores de todo o arquivo
         Jogador[] playesSelessao = new Jogador[1000]; // objeto que recebe os atributos das entradas do verde
+        Jogador[] playesAux = new Jogador[1000]; // objeto auxiliar para o mergeSort
 
         Scanner scanner = new Scanner(System.in);
+
         int quantidadeEntrada = 0;
+
+        
         AtualizaCampoVazio();
         preencheJogador(players);
         quantidadeEntrada = leitura(players, playesSelessao, scanner);
 
 
+        //mergeSort(playesSelessao, playesAux, 0, quantidadeEntrada-1);
+        //countingSort(playesSelessao, quantidadeEntrada);
         heapsort(playesSelessao, quantidadeEntrada);
         imprimir(playesSelessao, quantidadeEntrada);
+        
+        scanner.close();
     }
+
     public static void imprimir(Jogador[] players, int contador){
         for(int i = 0; i < contador; i++){
             players[i].imprimir();
         }
     }
-    public static  void heapsort(Jogador[] players, int contador){
-        for (int i = (contador - 1) / 2; i >= 0; i--) {
-            constroi(players, i, contador - 1);
+
+    public static void countingSort(Jogador[] players, int contador) {
+        // Encontre o valor máximo da altura para determinar o tamanho do array auxiliar.
+        int maior = 0;
+        for (int i = 0; i < contador; i++) {
+            if (players[i].getAltura() > maior) {
+                maior = players[i].getAltura();
+            }
         }
-        for (int i = contador - 1; i >= 1; i--) {
-            Jogador aux = players[0];
-            players[0] = players[i];
-            players[i] = aux;
-            constroi(players, 0, i - 1);
+    
+        // Crie um array auxiliar para contar a ocorrência de cada altura.
+        int[] aux = new int[maior + 1];
+        for (int i = 0; i < contador; i++) {
+            aux[players[i].getAltura()]++;
+        }
+    
+        // Atualize o array auxiliar para conter as posições finais de cada altura.
+        for (int i = 1; i <= maior; i++) {
+            aux[i] += aux[i - 1];
+        }
+    
+        // Crie um array ordenado com base nas posições finais no array auxiliar.
+        Jogador[] ordenado = new Jogador[contador];
+        for (int i = contador - 1; i >= 0; i--) {
+            ordenado[aux[players[i].getAltura()] - 1] = players[i];
+            aux[players[i].getAltura()]--;
+        }
+    
+        // Copie o array ordenado de volta para o array original.
+        System.arraycopy(ordenado, 0, players, 0, contador);
+    }
+    
+    // mergesort usando o atributo universidade
+    public static void mergeSort(Jogador[] players, Jogador[] playersAux, int esq, int dir) {
+        if (esq < dir) {
+            int meio = (esq + dir) / 2;
+            mergeSort(players, playersAux, esq, meio);
+            mergeSort(players, playersAux, meio + 1, dir);
+            intercala(players, playersAux, esq, meio, dir);
         }
     }
-    public static void constroi(Jogador[] players, int i, int f){
-        Jogador aux = players[i];
-        int j = i * 2 + 1;
-        while (j <= f) {
-            if (j < f) {
-                if (players[j].getAltura() < players[j + 1].getAltura()) {
-                    j++;
-                }
-            }
-            if (aux.getAltura() < players[j].getAltura()) {
-                players[i] = players[j];
-                i = j;
-                j = i * 2 + 1;
+    public static void intercala(Jogador[] players, Jogador[] playersAux, int esq, int meio, int dir) {
+        for (int k = esq; k <= dir; k++) {
+            playersAux[k] = players[k];
+        }
+        int i = esq;
+        int j = meio + 1;
+        for (int k = esq; k <= dir; k++) {
+            if (i > meio) {
+                players[k] = playersAux[j++];
+            } else if (j > dir) {
+                players[k] = playersAux[i++];
+            } else if (playersAux[i].getUniversidade().compareTo(playersAux[j].getUniversidade()) < 0) {
+                players[k] = playersAux[i++];
+            } else if (playersAux[i].getUniversidade().compareTo(playersAux[j].getUniversidade()) > 0) {
+                players[k] = playersAux[j++];
+            } else if (playersAux[i].getNome().compareTo(playersAux[j].getNome()) < 0) {
+                players[k] = playersAux[i++];
             } else {
-                j = f + 1;
+                players[k] = playersAux[j++];
             }
         }
-        players[i] = aux;
+    }
+    public static void heapsort(Jogador[] players, int contador) {
+        // Altere o vetor ignorando a posição zero
+        Jogador[] players2 = new Jogador[contador + 1];
+        for (int i = 0; i < contador; i++) {
+            players2[i + 1] = players[i];
+        }
+        players = players2;
+    
+        // Construção do heap.
+        for (int tamHeap = 2; tamHeap <= contador; tamHeap++) {
+            constroi(players, tamHeap);
+        }
+    
+        // Ordenação propriamente dita.
+        int tamHeap = contador;
+        while (tamHeap > 1) {
+            swap(players, 1, tamHeap--);
+            reconstroi(players, tamHeap);
+        }
+    
+        // Altere o vetor para voltar à posição zero
+        Jogador[] players3 = new Jogador[contador];
+        for (int i = 0; i < contador; i++) {
+            players3[i] = players[i + 1];
+        }
+        players = players3;
+    }
+    
+    public static void constroi(Jogador[] players, int tamHeap) {
+        for (int i = tamHeap; i > 1 && (players[i].getAltura() > players[i / 2].getAltura()
+                || (players[i].getAltura() == players[i / 2].getAltura() && players[i].getNome().compareTo(players[i / 2].getNome()) > 0)); i /= 2) {
+            swap(players, i, i / 2);
+        }
+    }
+    
+    public static void reconstroi(Jogador[] players, int tamHeap) {
+        int i = 1, filho;
+        while (i <= (tamHeap / 2)) {
+            if (2 * i < tamHeap && (players[2 * i].getAltura() < players[2 * i + 1].getAltura()
+                    || (players[2 * i].getAltura() == players[2 * i + 1].getAltura() && players[2 * i].getNome().compareTo(players[2 * i + 1].getNome()) < 0))) {
+                filho = 2 * i + 1;
+            } else {
+                filho = 2 * i;
+            }
+            if (players[i].getAltura() < players[filho].getAltura()
+                    || (players[i].getAltura() == players[filho].getAltura() && players[i].getNome().compareTo(players[filho].getNome()) < 0)) {
+                swap(players, i, filho);
+                i = filho;
+            } else {
+                i = tamHeap;
+            }
+        }
+    }
+    
+    public static void swap(Jogador[] players, int i, int j) {
+        Jogador temp = players[i];
+        players[i] = players[j];
+        players[j] = temp;
     }
 
+    
     public static int leitura(Jogador[] players, Jogador[] playersSelecao, Scanner scanner) {
         int i = 0;
         int contador = 0;

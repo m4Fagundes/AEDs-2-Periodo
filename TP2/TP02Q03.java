@@ -296,8 +296,8 @@ public class TP02Q03 {
     public static void AtualizaCampoVazio(){
         //String csvArquivo = "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\players.csv";
         //String novoCsvArquivo = "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\players_atualizado.csv";
-        String csvArquivo = "/tmp/players.csv";
-        String novoCsvArquivo = "/tmp/players_atualizado.csv";
+        String csvArquivo = "players.csv";
+        String novoCsvArquivo = "players_atualizado.csv";
 
         try (BufferedReader conteudoCSV = new BufferedReader(new FileReader(csvArquivo));
              BufferedWriter escritor = new BufferedWriter(new FileWriter(novoCsvArquivo))) {

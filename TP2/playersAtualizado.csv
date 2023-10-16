@@ -1,10 +1,10 @@
 id,Player,height,weight,collage,born,birth_city,birth_state
-0,Curly Armstrong,180,77,Indiana University,1918,nao informado,nao informado,
+0,Curly Armstrong,180,77,Indiana University,1918,nao informado,
 1,Cliff Barker,188,83,University of Kentucky,1921,Yorktown,Indiana
-2,Leo Barnhorst,193,86,University of Notre Dame,1924,nao informado,nao informado,
-3,Ed Bartels,196,88,North Carolina State University,1925,nao informado,nao informado,
+2,Leo Barnhorst,193,86,University of Notre Dame,1924,nao informado,
+3,Ed Bartels,196,88,North Carolina State University,1925,nao informado,
 4,Ralph Beard,178,79,University of Kentucky,1927,Hardinsburg,Kentucky
-5,Gene Berce,180,79,Marquette University,1926,nao informado,nao informado,
+5,Gene Berce,180,79,Marquette University,1926,nao informado,
 6,Charlie Black,196,90,University of Kansas,1921,Arco,Idaho
 7,Nelson Bobb,183,77,Temple University,1924,Philadelphia,Pennsylvania
 8,Jake Bornheimer,196,90,Muhlenberg College,1927,New Brunswick,New Jersey
@@ -12,414 +12,414 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 10,Don Boven,193,95,Western Michigan University,1925,Kalamazoo,Michigan
 11,Harry Boykoff,208,102,St. John's University,1922,Brooklyn,New York
 12,Joe Bradley,190,79,Oklahoma State University,1928,Washington,Oklahoma
-13,Bob Brannum,196,97,Michigan State University,1925,nao informado,nao informado,
+13,Bob Brannum,196,97,Michigan State University,1925,nao informado,
 14,Carl Braun,196,81,Colgate University,1927,Brooklyn,New York
 15,Frankie Brian,185,81,Louisiana State University,1923,Zachary,Louisiana
 16,Price Brookfield,193,83,West Texas A&M University,1920,Floydada,Texas
 17,Bob Brown,193,92,Miami University,1923,Versailles,Ohio
 18,Jim Browne,208,106,nao informado,1930,Midlothian,Illinois
 19,Walt Budko,196,99,Columbia University,1925,Kearney,New Jersey
-20,Jack Burmaster,190,86,University of Illinois at Urbana-Champaign,1926,nao informado,nao informado,
+20,Jack Burmaster,190,86,University of Illinois at Urbana-Champaign,1926,nao informado,
 21,Tommy Byrnes,190,79,Seton Hall University,1923,Teaneck,New Jersey
 22,Bill Calhoun,190,81,City College of San Francisco,1927,San Francisco,California
 23,Don Carlson,183,77,University of Minnesota,1919,Minneapolis,Minnesota
-24,Bob Carpenter,196,90,East Texas State University,1917,nao informado,nao informado,
-25,Jake Carter,193,88,East Texas State University,1924,nao informado,nao informado,
+24,Bob Carpenter,196,90,East Texas State University,1917,nao informado,
+25,Jake Carter,193,88,East Texas State University,1924,nao informado,
 26,Al Cervi*,180,77,nao informado,1917,Buffalo,New York
-27,John Chaney,190,83,Louisiana State University,1920,nao informado,nao informado,
+27,John Chaney,190,83,Louisiana State University,1920,nao informado,
 28,Leroy Chollet,188,86,Canisius College,1925,New Orleans,Louisiana
 29,Bill Closs,196,88,Rice University,1922,Edge,Texas
-30,Paul Cloyd,188,81,University of Wisconsin,1920,nao informado,nao informado,
+30,Paul Cloyd,188,81,University of Wisconsin,1920,nao informado,
 31,Jack Coleman,201,88,University of Louisville,1924,Burgin,Kentucky
-32,Bobby Cook,178,70,University of Wisconsin,1923,nao informado,nao informado,
-33,Ray Corley,183,81,Georgetown University,1928,nao informado,nao informado,
+32,Bobby Cook,178,70,University of Wisconsin,1923,nao informado,
+33,Ray Corley,183,81,Georgetown University,1928,nao informado,
 34,Jack Cotton,201,90,University of Wyoming,1924,Miles City,Montana
 35,Dillard Crocker,193,92,Western Michigan University,1925,Coffee County,Tennessee
 36,Chink Crossin,185,74,University of Pennsylvania,1923,Luzerne,Pennsylvania
 37,Fran Curran,183,79,University of Notre Dame,1922,Sterling,Illinois
-38,Jimmy Darden,185,77,University of Denver,1922,nao informado,nao informado,
+38,Jimmy Darden,185,77,University of Denver,1922,nao informado,
 39,Bob Davies*,185,79,Seton Hall University,1920,Harrisburg,Pennsylvania
 40,Hook Dillon,190,81,University of North Carolina,1924,Savannah,Georgia
-41,Earl Dodd,196,79,Truman State University,1924,nao informado,nao informado,
-42,Joe Dolhon,183,79,New York University,1927,nao informado,nao informado,
+41,Earl Dodd,196,79,Truman State University,1924,nao informado,
+42,Joe Dolhon,183,79,New York University,1927,nao informado,
 43,Bob Doll,196,88,University of Colorado,1919,Steamboat Springs,Colorado
 44,Harry Donovan,188,81,Muhlenberg College,1926,Union City,New Jersey
-45,Andy Duncan,198,88,College of William & Mary,1922,nao informado,nao informado,
+45,Andy Duncan,198,88,College of William & Mary,1922,nao informado,
 46,Dike Eddleman,190,85,University of Illinois at Urbana-Champaign,1922,Centralia,Illinois
 47,Gene Englund,196,92,University of Wisconsin,1917,Kenosha,Wisconsin
 48,Bob Evans,188,79,Butler University,1925,Indianapolis,Indiana
 49,Johnny Ezersky,190,79,University of Rhode Island,1922,New York,New York
 50,Bob Feerick,190,86,Santa Clara University,1920,San Francisco,California
-51,George Feigenbaum,185,83,University of Kentucky,1929,nao informado,nao informado,
+51,George Feigenbaum,185,83,University of Kentucky,1929,nao informado,
 52,Arnie Ferrin,188,81,University of Utah,1925,Salt Lake City,Utah
 53,Jerry Fleishman,188,86,New York University,1922,Brooklyn,New York
 54,Joe Fulks*,196,86,Murray State University,1921,Birmingham,Kentucky
-55,Bill Gabor,180,77,Syracuse University,1922,nao informado,nao informado,
+55,Bill Gabor,180,77,Syracuse University,1922,nao informado,
 56,Elmer Gainer,198,88,DePaul University,1918,Chicago,Illinois
 57,Harry Gallatin*,198,95,Truman State University,1927,Roxana,Illinois
 58,Vern Gardner,196,90,University of Utah,1925,Afton,Wyoming
-59,Frank Gates,183,72,Sam Houston State University,1920,nao informado,nao informado,
-60,Dee Gibson,180,79,Western Kentucky University,1923,nao informado,nao informado,
-61,Hoot Gibson,196,89,Creighton University,1921,nao informado,nao informado,
-62,Chuck Gilmur,193,102,University of Washington,1922,nao informado,nao informado,
-63,Normie Glick,201,86,Loyola Marymount University,1927,nao informado,nao informado,
-64,Paul Gordon,190,83,University of Notre Dame,1927,nao informado,nao informado,
-65,Joe Graboski,201,88,nao informado,1930,nao informado,nao informado,
+59,Frank Gates,183,72,Sam Houston State University,1920,nao informado,
+60,Dee Gibson,180,79,Western Kentucky University,1923,nao informado,
+61,Hoot Gibson,196,89,Creighton University,1921,nao informado,
+62,Chuck Gilmur,193,102,University of Washington,1922,nao informado,
+63,Normie Glick,201,86,Loyola Marymount University,1927,nao informado,
+64,Paul Gordon,190,83,University of Notre Dame,1927,nao informado,
+65,Joe Graboski,201,88,nao informado,1930,nao informado,
 66,Bud Grant,190,88,University of Minnesota,1927,Superior,Wisconsin
 67,Don Grate,188,83,Ohio State University,1923,Greenfield,Ohio
 68,Alex Groza,201,98,University of Kentucky,1926,Martins Ferry,Ohio
-69,Al Guokas,196,90,Saint Joseph's University,1925,nao informado,nao informado,
-70,Robert Hahn,208,108,North Carolina State University,1925,nao informado,nao informado,
+69,Al Guokas,196,90,Saint Joseph's University,1925,nao informado,
+70,Robert Hahn,208,108,North Carolina State University,1925,nao informado,
 71,Chick Halbert,206,102,West Texas A&M University,1919,Albany,Texas
 72,Bruce Hale,185,77,Santa Clara University,1918,Medford,Oregon
-73,Dale Hamilton,183,81,Franklin College,1919,nao informado,nao informado,
+73,Dale Hamilton,183,81,Franklin College,1919,nao informado,
 74,Alex Hannum*,201,95,University of Southern California,1923,Los Angeles,California
 75,John Hargis,188,81,University of Texas at Austin,1920,Nacogdoches,Texas
 76,Bob Harris,201,88,Oklahoma State University,1927,Linden,Tennessee
 77,Bob Harrison,201,88,Oklahoma State University,1927,Linden,Tennessee
-78,Billy Hassett,180,81,University of Notre Dame,1921,nao informado,nao informado,
+78,Billy Hassett,180,81,University of Notre Dame,1921,nao informado,
 79,Marshall Hawkins,190,92,University of Tennessee,1924,Huntington,West Virginia
 80,Bill Henry,206,97,Rice University,1924,Dallas,Texas
-81,Bill Herman,190,77,Mount Union College,1924,nao informado,nao informado,
+81,Bill Herman,190,77,Mount Union College,1924,nao informado,
 82,Kleggie Hermsen,206,102,University of Minnesota,1923,Hill City,Minnesota
 83,Sonny Hertzberg,178,79,City College of New York,1922,Brooklyn,New York
-84,Paul Hoffman,188,88,Purdue University,1925,nao informado,nao informado,
-85,Joe Holland,193,83,University of Kentucky,1925,nao informado,nao informado,
+84,Paul Hoffman,188,88,Purdue University,1925,nao informado,
+85,Joe Holland,193,83,University of Kentucky,1925,nao informado,
 86,Red Holzman*,178,79,City College of New York,1920,Brooklyn,New York
 87,Gene James,193,81,Marshall University,1925,Ironton,Ohio
-88,Howie Janotta,190,83,Seton Hall University,1924,nao informado,nao informado,
+88,Howie Janotta,190,83,Seton Hall University,1924,nao informado,
 89,Tony Jaros,190,83,University of Minnesota,1920,Minneapolis,Minnesota
 90,Buddy Jeannette*,180,79,Washington & Jefferson College,1917,New Kensington,Pennsylvania
 91,Arnie Johnson,196,107,Bemidji State University,1920,Gonvick,Minnesota
-92,Ralph Johnson,180,77,Huntington University,1921,nao informado,nao informado,
-93,Wah Wah,180,77,nao informado,1921,nao informado,nao informado,
-94,Noble Jorgensen,206,103,University of Iowa,1925,nao informado,nao informado,
+92,Ralph Johnson,180,77,Huntington University,1921,nao informado,
+93,Wah Wah,180,77,nao informado,1921,nao informado,
+94,Noble Jorgensen,206,103,University of Iowa,1925,nao informado,
 95,George Kaftan,190,86,College of the Holy Cross,1928,New York,New York
-96,Leo Katkaveck,183,83,North Carolina State University,1923,nao informado,nao informado,
-97,Jack Kerris,198,97,Loyola University of Chicago,1925,nao informado,nao informado,
+96,Leo Katkaveck,183,83,North Carolina State University,1923,nao informado,
+97,Jack Kerris,198,97,Loyola University of Chicago,1925,nao informado,
 98,Bob Kinney,198,97,Rice University,1920,Fort Scott,Kansas
 99,Walt Kirk,190,78,University of Illinois at Urbana-Champaign,1924,Mount Vernon,Illinois
 100,Leo Klier,188,77,University of Notre Dame,1923,Washington,Indiana
 101,Duane Klueh,190,79,Indiana State University,1926,Bottineau,North Dakota
 102,Lee Knorek,201,97,University of Detroit Mercy,1921,Warsaw,Poland
-103,Milo Komenich,201,96,University of Wyoming,1920,nao informado,nao informado,
-104,Leo Kubiak,180,72,Bowling Green State University,1927,nao informado,nao informado,
-105,Frank Kudelka,188,87,Saint Mary's College of California,1925,nao informado,nao informado,
-106,Walt Lautenbach,188,83,University of Wisconsin,1922,nao informado,nao informado,
+103,Milo Komenich,201,96,University of Wyoming,1920,nao informado,
+104,Leo Kubiak,180,72,Bowling Green State University,1927,nao informado,
+105,Frank Kudelka,188,87,Saint Mary's College of California,1925,nao informado,
+106,Walt Lautenbach,188,83,University of Wisconsin,1922,nao informado,
 107,Tony Lavelli,190,83,Yale University,1926,Somerville,Massachusetts
-108,Ed Leede,190,83,Dartmouth College,1927,nao informado,nao informado,
+108,Ed Leede,190,83,Dartmouth College,1927,nao informado,
 109,Andrew Levane,188,86,St. John's University,1920,Brooklyn,New York
 110,Freddie Lewis,188,88,Eastern Kentucky University,1921,Brooklyn,New York
-111,Ron Livingstone,208,99,University of Wyoming,1925,nao informado,nao informado,
+111,Ron Livingstone,208,99,University of Wyoming,1925,nao informado,
 112,John Logan,188,79,Indiana University,1921,Richmond,Indiana
 113,Ray Lumpp,185,80,New York University,1923,Brooklyn,New York
 114,Ed Macauley*,203,83,Saint Louis University,1928,St. Louis,Missouri
-115,Johnny Macknowski,183,81,Seton Hall University,1923,nao informado,nao informado,
+115,Johnny Macknowski,183,81,Seton Hall University,1923,nao informado,
 116,John Mahnken,203,99,Georgetown University,1922,New Jersey,New Jersey
 117,John Mandic,193,92,Oregon State University,1919,Los Angeles,California
 118,Slater Martin*,178,77,University of Texas at Austin,1925,El Mina,Texas
 119,Ariel Maughan,193,86,Utah State University,1923,Salt Lake City,Utah
 120,Matt Mazza,190,95,Michigan State University,1923,Niagara Falls,New York
-121,Mike McCarron,180,81,Seton Hall University,1922,nao informado,nao informado,
+121,Mike McCarron,180,81,Seton Hall University,1922,nao informado,
 122,Dick McGuire*,183,81,St. John's University,1926,Huntington,New York
 123,Bones McKinney,198,83,University of North Carolina,1919,Lowlands,North Carolina
-124,Mal McMullen,196,95,Xavier University,1927,nao informado,nao informado,
-125,Dick Mehen,196,88,University of Tennessee,1922,nao informado,nao informado,
-126,Ken Menke,183,76,University of Illinois at Urbana-Champaign,1922,nao informado,nao informado,
-127,Stan Miasek,196,95,nao informado,1924,nao informado,nao informado,
-128,Ed Mikan,203,104,DePaul University,1925,nao informado,nao informado,
+124,Mal McMullen,196,95,Xavier University,1927,nao informado,
+125,Dick Mehen,196,88,University of Tennessee,1922,nao informado,
+126,Ken Menke,183,76,University of Illinois at Urbana-Champaign,1922,nao informado,
+127,Stan Miasek,196,95,nao informado,1924,nao informado,
+128,Ed Mikan,203,104,DePaul University,1925,nao informado,
 129,George Mikan*,208,111,DePaul University,1924,Joliet,Illinois
 130,Vern Mikkelsen*,201,104,Hamline University,1928,Fresno,California
-131,Al Miksis,201,95,Western Illinois University,1928,nao informado,nao informado,
-132,Murray Mitchell,201,95,Sam Houston State University,1923,nao informado,nao informado,
+131,Al Miksis,201,95,Western Illinois University,1928,nao informado,
+132,Murray Mitchell,201,95,Sam Houston State University,1923,nao informado,
 133,Leo Mogus,193,86,Youngstown State University,1921,Ohio,
-134,Max Morris,188,88,Northwestern University,1925,nao informado,nao informado,
+134,Max Morris,188,88,Northwestern University,1925,nao informado,
 135,Joe Mullaney,183,74,College of the Holy Cross,1925,Long Island,New York
 136,Jerry Nagel,183,86,Loyola University of Chicago,1928,Chicago,Illinois
-137,Jack Nichols,201,100,University of Washington,1926,nao informado,nao informado,
+137,Jack Nichols,201,100,University of Washington,1926,nao informado,
 138,Richie Niemiera,185,74,University of Notre Dame,1921,Chicago,Illinois
 139,Paul Noel,193,83,University of Kentucky,1924,Midway,Kentucky
 140,Jim Nolan,203,95,Georgia Institute of Technology,1927,Macon,Georgia
 141,Johnny Norlander,190,81,Hamline University,1921,Virginia,Minnesota
 142,George Nostrand,203,88,University of Wyoming,1924,Uniondale,New York
 143,Mike Novak,206,99,Loyola University of Chicago,1915,Chicago,Illinois
-144,Dermie O'Connell,183,78,College of the Holy Cross,1928,nao informado,nao informado,
-145,Andy O'Donnell,185,81,Loyola College in Maryland,1925,nao informado,nao informado,
+144,Dermie O'Connell,183,78,College of the Holy Cross,1928,nao informado,
+145,Andy O'Donnell,185,81,Loyola College in Maryland,1925,nao informado,
 146,Dick O'Keefe,188,83,Santa Clara University,1923,San Francisco,California
 147,John Oldham,190,79,Western Kentucky University,1923,Beaver Dam,Kentucky
 148,Gene Ollrich,180,72,Drake University,1922,Whiting,Indiana
 149,Johnny Orr,190,88,Beloit College,1927,Yale,Kansas
 150,Don Otten,208,108,Bowling Green State University,1921,Bellefontaine,Ohio
 151,Mac Otten,201,99,Bowling Green State University,1925,Bellefontaine,Ohio
-152,Red Owens,190,83,Baylor University,1925,nao informado,nao informado,
+152,Red Owens,190,83,Baylor University,1925,nao informado,
 153,Easy Parham,190,90,Texas Wesleyan University,1921,Fort Worth,Texas
 154,Jack Parkinson,183,78,University of Kentucky,1924,Yorktown,Indiana
-155,Charlie Parsley,188,79,Western Kentucky University,1925,nao informado,nao informado,
-156,Stan Patrick,188,83,University of Illinois at Urbana-Champaign,1922,nao informado,nao informado,
-157,Johnny Payak,193,78,Bowling Green State University,1926,nao informado,nao informado,
+155,Charlie Parsley,188,79,Western Kentucky University,1925,nao informado,
+156,Stan Patrick,188,83,University of Illinois at Urbana-Champaign,1922,nao informado,
+157,Johnny Payak,193,78,Bowling Green State University,1926,nao informado,
 158,Warren Perkins,190,86,Tulane University,1922,New Orleans,Louisiana
-159,Ed Peterson,206,99,Cornell University,1924,nao informado,nao informado,
+159,Ed Peterson,206,99,Cornell University,1924,nao informado,
 160,Jack Phelan,196,88,DePaul University,1925,Chicago,Illinois
 161,Andy Phillip*,188,88,University of Illinois at Urbana-Champaign,1922,Granite City,Illinois
 162,Jim Pollard*,193,83,Stanford University,1922,Oakland,California
-163,John Pritchard,206,99,Drake University,1927,nao informado,nao informado,
-164,Les Pugh,201,86,Ohio State University,1923,nao informado,nao informado,
-165,Don Putman,201,86,nao informado,1923,nao informado,nao informado,
+163,John Pritchard,206,99,Drake University,1927,nao informado,
+164,Les Pugh,201,86,Ohio State University,1923,nao informado,
+165,Don Putman,201,86,nao informado,1923,nao informado,
 166,George Ratkovicz,198,99,nao informado,1922,Chicago,Illinois
 167,Don Ray,196,86,Western Kentucky University,1921,Mt. Juliet,Tennessee
-168,Chick Reiser,180,74,New York University,1914,nao informado,nao informado,
+168,Chick Reiser,180,74,New York University,1914,nao informado,
 169,Arnie Risen*,206,90,Ohio State University,1924,Williamstown,Kentucky
 170,Tex Ritter,188,83,Eastern Kentucky University,1924,Richmond,Kentucky
 171,Bill Roberts,206,95,University of Wyoming,1925,Fort Wayne,Indiana
 172,Red Rocha,206,83,Oregon State University,1923,Hilo,Hawaii
 173,Kenny Rollins,183,76,University of Kentucky,1923,Charlestown,Missouri
-174,Bob Royer,178,70,Indiana State University,1927,nao informado,nao informado,
+174,Bob Royer,178,70,Indiana State University,1927,nao informado,
 175,Jerry Rullo,178,74,Temple University,1923,Philadelphia,Pennsylvania
 176,Ed Sadowski,196,108,Seton Hall University,1917,Johnstown,Pennsylvania
 177,Kenny Sailors,178,79,University of Wyoming,1921,Bushnell,Nebraska
-178,Pep Saul,188,83,Seton Hall University,1924,nao informado,nao informado,
+178,Pep Saul,188,83,Seton Hall University,1924,nao informado,
 179,Herm Schaefer,183,79,Indiana University,1918,Fort Wayne,Indiana
-180,Marv Schatzman,196,90,Saint Louis University,1927,nao informado,nao informado,
+180,Marv Schatzman,196,90,Saint Louis University,1927,nao informado,
 181,Fred Schaus,196,92,West Virginia University,1925,Newark,Ohio
 182,Dolph Schayes*,203,99,New York University,1928,New York,New York
-183,Milt Schoon,201,104,Valparaiso University,1922,nao informado,nao informado,
+183,Milt Schoon,201,104,Valparaiso University,1922,nao informado,
 184,Howie Schultz,198,90,Hamline University,1922,St. Paul,Minnesota
 185,Dick Schulz,188,87,University of Wisconsin,1917,Racine,Wisconsin
 186,Fred Scolari,178,81,University of San Francisco,1922,San Francisco,California
 187,Wayne See,190,86,Northern Arizona University,1923,Clemenceau,Arizona
-188,Glen Selbo,190,88,University of Wisconsin,1926,nao informado,nao informado,
+188,Glen Selbo,190,88,University of Wisconsin,1926,nao informado,
 189,Rollie Seltz,178,74,Hamline University,1924,McIntosh,Minnesota
 190,Jim Seminoff,188,86,University of Southern California,1922,Los Angelse,California
 191,George Senesky,188,81,Saint Joseph's University,1922,Mahanoy City,Pennsylvania
 192,Paul Seymour,185,81,University of Toledo,1928,Toledo,Ohio
 193,Carl Shaeffer,190,83,University of Alabama,1924,Delphi,Indiana
 194,Howie Shannon,188,79,Kansas State University,1923,Manhattan,Kansas
-195,Charley Shipp,185,90,Catholic University of America,1913,nao informado,nao informado,
+195,Charley Shipp,185,90,Catholic University of America,1913,nao informado,
 196,Connie Simmons,203,100,nao informado,1925,Newark,New Jersey
 197,Belus Smawley,185,88,Appalachian State University,1918,Golden Valley,North Carolina
 198,Jack Smiley,190,86,University of Illinois at Urbana-Champaign,1922,Sandwich,Illinois
-199,Chips Sobek,183,81,University of Notre Dame,1920,nao informado,nao informado,
-200,Odie Spears,196,92,Western Kentucky University,1925,nao informado,nao informado,
+199,Chips Sobek,183,81,University of Notre Dame,1920,nao informado,
+200,Odie Spears,196,92,Western Kentucky University,1925,nao informado,
 201,Art Spector,193,90,Villanova University,1920,Philadelphia,Pennsylvania
-202,Ed Stanczak,185,83,nao informado,1921,nao informado,nao informado,
-203,Gene Stump,188,83,DePaul University,1923,nao informado,nao informado,
-204,Mike Todorovich,196,99,University of Wyoming,1923,nao informado,nao informado,
+202,Ed Stanczak,185,83,nao informado,1921,nao informado,
+203,Gene Stump,188,83,DePaul University,1923,nao informado,
+204,Mike Todorovich,196,99,University of Wyoming,1923,nao informado,
 205,Jack Toomay,198,97,University of the Pacific,1922,Ontario,California
 206,Bob Tough,183,83,St. John's University,1920,New York,New York
 207,Blackie Towery,193,95,Western Kentucky University,1920,Caldwell,Kentucky
 208,Dick Triptow,183,77,DePaul University,1922,Chicago,Illinois
-209,Butch Van,183,77,nao informado,1922,nao informado,nao informado,
-210,Gene Vance,190,88,University of Illinois at Urbana-Champaign,1923,nao informado,nao informado,
+209,Butch Van,183,77,nao informado,1922,nao informado,
+210,Gene Vance,190,88,University of Illinois at Urbana-Champaign,1923,nao informado,
 211,Ernie Vandeweghe,190,88,Colgate University,1928,Montreal,Canada
 212,Floyd Volker,193,92,University of Wyoming,1921,Casper,Wyoming
-213,Whitey Von,193,92,nao informado,1921,nao informado,nao informado,
+213,Whitey Von,193,92,nao informado,1921,nao informado,
 214,Clint Wager,198,95,Saint Mary's University of Minnesota,1920,Winona,Minnesota
-215,Danny Wagner,183,77,University of Texas at Austin,1922,nao informado,nao informado,
+215,Danny Wagner,183,77,University of Texas at Austin,1922,nao informado,
 216,Brady Walker,198,92,Brigham Young University,1921,Provo,Utah
 217,Paul Walther,188,72,University of Tennessee,1927,Covington,Kentucky
 218,Bobby Wanzer*,183,77,Seton Hall University,1921,Brooklyn,New York
 219,Murray Wier,175,70,University of Iowa,1926,Grand View,Iowa
-220,D.C. Wilcutt,175,70,nao informado,1926,nao informado,nao informado,
-221,Bob Wood,175,70,Northern Illinois University,1921,nao informado,nao informado,
+220,D.C. Wilcutt,175,70,nao informado,1926,nao informado,
+221,Bob Wood,175,70,Northern Illinois University,1921,nao informado,
 222,Max Zaslofsky,188,77,St. John's University,1925,Brooklyn,New York
 222,Max Zaslofsky,188,77,St. John's University,1925,Brooklyn,New York
 224,Paul Arizin*,193,86,Villanova University,1928,Philadelphia,Pennsylvania
-225,Ed Beach,190,90,West Virginia University,1929,nao informado,nao informado,
-226,Leon Blevins,188,72,University of Arizona,1926,nao informado,nao informado,
+225,Ed Beach,190,90,West Virginia University,1929,nao informado,
+226,Leon Blevins,188,72,University of Arizona,1926,nao informado,
 227,Ike Borsavage,203,99,Temple University,1924,Plymouth,Pennsylvania
-228,Art Burris,196,99,University of Tennessee,1924,nao informado,nao informado,
+228,Art Burris,196,99,University of Tennessee,1924,nao informado,
 229,Gerry Calabrese,185,79,St. John's University,1925,Hoboken,New Jersey
-230,Cal Christensen,196,95,University of Toledo,1927,nao informado,nao informado,
+230,Cal Christensen,196,95,University of Toledo,1927,nao informado,
 231,Nat Clifton*,198,99,Xavier University of Louisiana,1922,Little Rock,Arkansas
-232,Chuck Cooper,196,95,Duquesne University,1926,nao informado,nao informado,
+232,Chuck Cooper,196,95,Duquesne University,1926,nao informado,
 233,Bob Cousy*,185,79,College of the Holy Cross,1928,New York,New York
-234,Hank DeZonie,198,97,Clark Atlanta University,1922,nao informado,nao informado,
-235,Bob Donham,188,86,Ohio State University,1926,nao informado,nao informado,
+234,Hank DeZonie,198,97,Clark Atlanta University,1922,nao informado,
+235,Bob Donham,188,86,Ohio State University,1926,nao informado,
 236,Ray Ellefson,203,104,West Texas A&M University,1922,Brookings,South Dakota
 237,Larry Foust,206,97,La Salle University,1928,Painesville,Ohio
-238,Ed Gayda,193,95,Washington State University,1927,nao informado,nao informado,
-239,Joe Hutton,185,77,Hamline University,1928,nao informado,nao informado,
-240,Bob Lavoy,201,83,Western Kentucky University,1926,nao informado,nao informado,
-241,Earl Lloyd*,196,90,West Virginia State University,1928,nao informado,nao informado,
+238,Ed Gayda,193,95,Washington State University,1927,nao informado,
+239,Joe Hutton,185,77,Hamline University,1928,nao informado,
+240,Bob Lavoy,201,83,Western Kentucky University,1926,nao informado,
+241,Earl Lloyd*,196,90,West Virginia State University,1928,nao informado,
 242,Don Lofgran,196,90,University of San Francisco,1928,Oakland,California
-243,Norm Mager,196,83,City College of New York,1926,nao informado,nao informado,
-244,Joe McNamee,198,95,University of San Francisco,1926,nao informado,nao informado,
-245,Chuck Mrazovich,196,83,Eastern Kentucky University,1924,nao informado,nao informado,
-246,Ken Murray,188,86,St. Bonaventure University,1928,nao informado,nao informado,
+243,Norm Mager,196,83,City College of New York,1926,nao informado,
+244,Joe McNamee,198,95,University of San Francisco,1926,nao informado,
+245,Chuck Mrazovich,196,83,Eastern Kentucky University,1924,nao informado,
+246,Ken Murray,188,86,St. Bonaventure University,1928,nao informado,
 247,Tommy O'Keefe,188,83,Georgetown University,1928,Jersey City,New Jersey
 248,Kevin O'Shea,188,79,University of Notre Dame,1925,San Francisco,California
 249,Don Rehfeldt,201,95,University of Wisconsin,1927,Chicago,Illinois
-250,Jim Riffey,193,90,Tulane University,1923,nao informado,nao informado,
+250,Jim Riffey,193,90,Tulane University,1923,nao informado,
 251,Alan Sawyer,196,88,University of California - Los Angeles,1928,Long Beach,California
-252,Herb Scherer,206,96,Long Island University,1928,nao informado,nao informado,
+252,Herb Scherer,206,96,Long Island University,1928,nao informado,
 253,Dick Schnittker,196,90,Ohio State University,1928,Kelleys Island,Ohio
 254,Bill Sharman*,185,79,University of Southern California,1926,Abilene,Texas
 255,Don Barksdale*,198,90,University of California- Los Angeles,1923,Oakland,California
 256,Elmer Behnke,201,95,Bradley University,1929,Rockford,Illinois
-257,Stan Brown,190,90,nao informado,1929,nao informado,nao informado,
-258,Ed Dahler,196,86,Duquesne University,1926,nao informado,nao informado,
-259,Nate DeLong,198,99,University of Wisconsin-River Falls,1926,nao informado,nao informado,
+257,Stan Brown,190,90,nao informado,1929,nao informado,
+258,Ed Dahler,196,86,Duquesne University,1926,nao informado,
+259,Nate DeLong,198,99,University of Wisconsin-River Falls,1926,nao informado,
 260,Dick Dickey,185,79,North Carolina State University,1926,Grant County,Indiana
-261,Jake Fendley,183,81,Northwestern University,1929,nao informado,nao informado,
-262,Jerry Fowler,203,104,University of Missouri,1927,nao informado,nao informado,
+261,Jake Fendley,183,81,Northwestern University,1929,nao informado,
+262,Jerry Fowler,203,104,University of Missouri,1927,nao informado,
 263,Lew Hitch,203,90,Kansas State University,1929,Griggsville,Illinois
 264,Mel Hutchins,198,90,Brigham Young University,1928,Sacramento,California
 265,Neil Johnston*,203,95,Ohio State University,1929,Chillicothe,Ohio
-266,Jack Kiley,185,77,Syracuse University,1929,nao informado,nao informado,
+266,Jack Kiley,185,77,Syracuse University,1929,nao informado,
 267,George King,183,79,University of Charleston,1928,Charleston,West Virginia
 268,John McConathy,196,88,Northwestern State University,1930,Sailes,Louisiana
 269,Alfred McGuire*,188,81,St. John's University,1928,New York,New York
 270,Dave Minor,188,83,University of California - Los Angeles,1922,Missouri,
 271,Ralph O'Brien,175,72,Butler University,1928,Henshaw,Kentucky
-272,Wally Osterkorn,196,97,University of Illinois at Urbana-Champaign,1928,nao informado,nao informado,
-273,Mel Payton,193,83,Tulane University,1926,nao informado,nao informado,
+272,Wally Osterkorn,196,97,University of Illinois at Urbana-Champaign,1928,nao informado,
+273,Mel Payton,193,83,Tulane University,1926,nao informado,
 274,John Pilch,190,83,University of Wyoming,1925,Sheridan,Wyoming
-275,Ray Ragelis,193,92,Northwestern University,1928,nao informado,nao informado,
+275,Ray Ragelis,193,92,Northwestern University,1928,nao informado,
 276,Sam Ranzino,185,83,North Carolina State University,1927,Gary,Indiana
-277,John Rennicke,188,83,Drake University,1929,nao informado,nao informado,
-278,Don Savage,190,92,LeMoyne College,1928,nao informado,nao informado,
-279,Chuck Share,211,106,Bowling Green State University,1927,nao informado,nao informado,
-280,Zeke Sinicola,178,74,Niagara University,1929,nao informado,nao informado,
+277,John Rennicke,188,83,Drake University,1929,nao informado,
+278,Don Savage,190,92,LeMoyne College,1928,nao informado,
+279,Chuck Share,211,106,Bowling Green State University,1927,nao informado,
+280,Zeke Sinicola,178,74,Niagara University,1929,nao informado,
 281,Whitey Skoog,180,81,University of Minnesota,1926,Duluth,Minnesota
-282,Jim Slaughter,211,95,University of South Carolina,1928,nao informado,nao informado,
-283,Bill Tosheff,185,79,Indiana University,1926,nao informado,nao informado,
-284,Bob Wilson,193,83,West Virginia State University,1926,nao informado,nao informado,
+282,Jim Slaughter,211,95,University of South Carolina,1928,nao informado,
+283,Bill Tosheff,185,79,Indiana University,1926,nao informado,
+284,Bob Wilson,193,83,West Virginia State University,1926,nao informado,
 285,Jim Baechtold,193,92,Eastern Kentucky University,1927,McKeesport,Pennsylvania
 286,Jim Brasco,185,77,New York University,1931,Brooklyn,New York
 287,Dick Bunt,183,77,New York University,1930,Queens,New York
 288,Gene Conley,203,102,Washington State University,1930,Muskogee,Oklahoma
-289,Pete Darcey,201,98,Oklahoma State University,1930,nao informado,nao informado,
-290,Blaine Denning,188,79,Lawrence Technological University,1930,nao informado,nao informado,
-291,Danny Finn,185,83,St. John's University,1928,nao informado,nao informado,
+289,Pete Darcey,201,98,Oklahoma State University,1930,nao informado,
+290,Blaine Denning,188,79,Lawrence Technological University,1930,nao informado,
+291,Danny Finn,185,83,St. John's University,1928,nao informado,
 292,Dick Groat,180,81,Duke University,1930,Wilkinsburg,Pennsylvania
-293,Don Hanrahan,201,90,Loyola University of Chicago,1929,nao informado,nao informado,
-294,Don Henriksen,201,102,University of California,1929,nao informado,nao informado,
-295,Jim Holstein,190,81,University of Cincinnati,1930,nao informado,nao informado,
-296,Bob Lochmueller,196,83,University of Louisville,1927,nao informado,nao informado,
-297,Mo Mahoney,188,92,Brown University,1927,nao informado,nao informado,
-298,Al Masino,178,78,Canisius College,1928,nao informado,nao informado,
+293,Don Hanrahan,201,90,Loyola University of Chicago,1929,nao informado,
+294,Don Henriksen,201,102,University of California,1929,nao informado,
+295,Jim Holstein,190,81,University of Cincinnati,1930,nao informado,
+296,Bob Lochmueller,196,83,University of Louisville,1927,nao informado,
+297,Mo Mahoney,188,92,Brown University,1927,nao informado,
+298,Al Masino,178,78,Canisius College,1928,nao informado,
 299,Jack McCloskey,188,86,University of Pennsylvania,1925,Mahanoy City,Pennsylvania
-300,Bucky McConnell,178,77,Marshall University,1928,nao informado,nao informado,
-301,George McLeod,196,90,Texas Christian University,1931,nao informado,nao informado,
-302,Jack McMahon,185,83,St. John's University,1928,nao informado,nao informado,
+300,Bucky McConnell,178,77,Marshall University,1928,nao informado,
+301,George McLeod,196,90,Texas Christian University,1931,nao informado,
+302,Jack McMahon,185,83,St. John's University,1928,nao informado,
 303,Monk Meineke,201,94,University of Dayton,1930,Dayton,Ohio
-304,Eddie Miller,203,102,Syracuse University,1931,nao informado,nao informado,
+304,Eddie Miller,203,102,Syracuse University,1931,nao informado,
 305,Bill Mlkvy,193,86,Temple University,1931,Palmerton,Pennsylvania
-306,Jim Mooney,196,97,Villanova University,1930,nao informado,nao informado,
-307,Bob Naber,190,83,University of Louisville,1929,nao informado,nao informado,
-308,John O'Boyle,188,83,Colorado State University,1928,nao informado,nao informado,
-309,Mike O'Neill,190,95,University of California,1928,nao informado,nao informado,
-310,Claude Overton,188,88,East Central University,1927,nao informado,nao informado,
-311,Ralph Polson,201,90,Whitworth,1929,nao informado,nao informado,
-312,Bob Priddy,190,86,New Mexico State University,1930,nao informado,nao informado,
-313,Moe Radovich,183,72,University of Wyoming,1929,nao informado,nao informado,
-314,Sherwin Raiken,188,83,Villanova University,1928,nao informado,nao informado,
-315,Gene Rhodes,185,77,Western Kentucky University,1927,nao informado,nao informado,
-316,Dick Surhoff,193,95,Long Island University,1929,nao informado,nao informado,
+306,Jim Mooney,196,97,Villanova University,1930,nao informado,
+307,Bob Naber,190,83,University of Louisville,1929,nao informado,
+308,John O'Boyle,188,83,Colorado State University,1928,nao informado,
+309,Mike O'Neill,190,95,University of California,1928,nao informado,
+310,Claude Overton,188,88,East Central University,1927,nao informado,
+311,Ralph Polson,201,90,Whitworth,1929,nao informado,
+312,Bob Priddy,190,86,New Mexico State University,1930,nao informado,
+313,Moe Radovich,183,72,University of Wyoming,1929,nao informado,
+314,Sherwin Raiken,188,83,Villanova University,1928,nao informado,
+315,Gene Rhodes,185,77,Western Kentucky University,1927,nao informado,
+316,Dick Surhoff,193,95,Long Island University,1929,nao informado,
 317,Mark Workman,206,97,West Virginia University,1930,Charleston,West Virginia
 318,Zeke Zawoluk,201,97,St. John's University,1930,Brooklyn,New York
 319,Don Ackerman,183,83,Long Island University,1930,New York,New York
 320,Don Asmonga,188,83,Alliance College,1928,West Mifflin,Pennsylvania
 321,Ernie Barrett,190,81,Kansas State University,1929,Pratt,Kansas
 322,Ernie Beck,193,86,University of Pennsylvania,1931,Philadelphia,Pennsylvania
-323,Irv Bemoras,190,83,University of Illinois at Urbana-Champaign,1930,nao informado,nao informado,
-324,Bill Bolger,196,92,Georgetown University,1931,nao informado,nao informado,
+323,Irv Bemoras,190,83,University of Illinois at Urbana-Champaign,1930,nao informado,
+324,Bill Bolger,196,92,Georgetown University,1931,nao informado,
 325,Walt Davis,203,92,Texas A&M University,1931,Beaumont,Texas
-326,Gene Dyker,198,102,DePaul University,1930,nao informado,nao informado,
-327,Ed Earle,190,86,Loyola University of Chicago,1927,nao informado,nao informado,
+326,Gene Dyker,198,102,DePaul University,1930,nao informado,
+327,Ed Earle,190,86,Loyola University of Chicago,1927,nao informado,
 328,Ray Felix,211,99,Long Island University,1930,New York,New York
-329,Jim Fritsche,203,95,Hamline University,1931,nao informado,nao informado,
+329,Jim Fritsche,203,95,Hamline University,1931,nao informado,
 330,Jack George,188,86,La Salle University,1928,Swissvale,Pennsylvania
-331,Bato Govedarica,180,83,DePaul University,1928,nao informado,nao informado,
+331,Bato Govedarica,180,83,DePaul University,1928,nao informado,
 332,Norm Grekin,196,81,La Salle University,1930,Philadelphia,Pennsylvania
-333,Rollen Hans,188,95,Long Island University,1931,nao informado,nao informado,
+333,Rollen Hans,188,95,Long Island University,1931,nao informado,
 334,Bob Houbregs*,201,95,University of Washington,1932,Vancouver,Canada
 335,Billy Kenville,188,84,St. Bonaventure University,1930,Elmhurst,New York
 336,Dick Knostman,198,97,Kansas State University,1931,Wamego,Kansas
 337,Clyde Lovellette*,206,106,University of Kansas,1929,Petersburg,Indiana
-338,Jim Luisi,188,81,St. Francis College,1928,nao informado,nao informado,
+338,Jim Luisi,188,81,St. Francis College,1928,nao informado,
 339,Jack Molinas,198,90,Columbia University,1931,New York,New York
-340,Jim Neal,211,106,Wofford College,1930,nao informado,nao informado,
-341,Paul Nolen,211,106,Texas Tech University,1929,nao informado,nao informado,
+340,Jim Neal,211,106,Wofford College,1930,nao informado,
+341,Paul Nolen,211,106,Texas Tech University,1929,nao informado,
 342,Bob Peterson,196,95,University of Oregon,1932,San Mateo,California
 343,James Phelan,196,88,DePaul University,1925,Chicago,Illinois
-344,Connie Rea,190,79,Centenary College of Louisiana,1935,nao informado,nao informado,
-345,Frank Reddout,196,88,Syracuse University,1935,nao informado,nao informado,
-346,Al Roges,193,88,Long Island University,1930,nao informado,nao informado,
+344,Connie Rea,190,79,Centenary College of Louisiana,1935,nao informado,
+345,Frank Reddout,196,88,Syracuse University,1935,nao informado,
+346,Al Roges,193,88,Long Island University,1930,nao informado,
 347,Ed Smith,198,81,Harvard University,1929,West Jefferson,Ohio
-348,Joe Smyth,190,97,Niagara University,1929,nao informado,nao informado,
+348,Joe Smyth,190,97,Niagara University,1929,nao informado,
 349,Don Sunderlage,185,81,University of Illinois at Urbana-Champaign,1929,Roselle,Illinois
 350,Norm Swanson,198,95,University of Detroit Mercy,1930,Chicago,Illinois
-351,Hal Uplinger,193,83,Long Island University,1929,nao informado,nao informado,
+351,Hal Uplinger,193,83,Long Island University,1929,nao informado,
 352,Isaac Walthour,180,73,nao informado,1930,New York City,New York
 353,George Yardley*,196,86,Stanford University,1928,Hollywood,California
-354,Don Anielak,201,86,Missouri State University,1930,nao informado,nao informado,
-355,Tom Brennan,190,88,Villanova University,1930,nao informado,nao informado,
-356,Bob Carney,190,77,Bradley University,1932,nao informado,nao informado,
-357,Fred Christ,193,95,Fordham University,1930,nao informado,nao informado,
-358,Bert Cook,190,83,Utah State University,1929,nao informado,nao informado,
+354,Don Anielak,201,86,Missouri State University,1930,nao informado,
+355,Tom Brennan,190,88,Villanova University,1930,nao informado,
+356,Bob Carney,190,77,Bradley University,1932,nao informado,
+357,Fred Christ,193,95,Fordham University,1930,nao informado,
+358,Bert Cook,190,83,Utah State University,1929,nao informado,
 359,Larry Costello,185,84,Niagara University,1931,Minoa,New York
 360,George Dempsey,188,86,King's College,1929,Philadelphia,Pennsylvania
-361,Fred Diute,190,95,St. Bonaventure University,1929,nao informado,nao informado,
-362,Dick Farley,193,86,Indiana University,1932,nao informado,nao informado,
+361,Fred Diute,190,95,St. Bonaventure University,1929,nao informado,
+362,Dick Farley,193,86,Indiana University,1932,nao informado,
 363,Chuck Grigsby,196,86,University of Dayton,1928,Dayton,Ohio
 364,Herm Hedderick,196,77,Canisius College,1930,Erie,Pennsylvania
-365,Ed Kalafat,198,111,University of Minnesota,1932,nao informado,nao informado,
+365,Ed Kalafat,198,111,University of Minnesota,1932,nao informado,
 366,Mike Kearns,188,80,Princeton University,1929,Trenton,New Jersey
 367,Red Kerr,206,104,University of Illinois at Urbana-Champaign,1932,Chicago,Illinois
-368,Dan King,198,99,Western Kentucky University,1931,nao informado,nao informado,
-369,Bob Knight,188,83,nao informado,1929,nao informado,nao informado,
-370,Ronnie MacGilvray,188,83,St. John's University,1930,nao informado,nao informado,
-371,Tom Marshall,193,97,Western Kentucky University,1931,nao informado,nao informado,
-372,Phil Martin,190,86,University of Toledo,1928,nao informado,nao informado,
-373,Ken McBride,190,86,University of Maryland Eastern Shore,1928,nao informado,nao informado,
-374,Carl McNulty,190,83,Purdue University,1930,nao informado,nao informado,
+368,Dan King,198,99,Western Kentucky University,1931,nao informado,
+369,Bob Knight,188,83,nao informado,1929,nao informado,
+370,Ronnie MacGilvray,188,83,St. John's University,1930,nao informado,
+371,Tom Marshall,193,97,Western Kentucky University,1931,nao informado,
+372,Phil Martin,190,86,University of Toledo,1928,nao informado,
+373,Ken McBride,190,86,University of Maryland Eastern Shore,1928,nao informado,
+374,Carl McNulty,190,83,Purdue University,1930,nao informado,
 375,Jackie Moore,196,81,La Salle University,1932,Philadelphia,Pennsylvania
-376,Red Morrison,203,99,University of Idaho,1932,nao informado,nao informado,
-377,Boris Nachamkin,198,95,New York University,1933,nao informado,nao informado,
+376,Red Morrison,203,99,University of Idaho,1932,nao informado,
+377,Boris Nachamkin,198,95,New York University,1933,nao informado,
 378,Togo Palazzi,193,92,College of the Holy Cross,1932,Union City,New Jersey
 379,Bob Pettit*,206,92,Louisiana State University,1932,Baton Rouge,Louisiana
 380,Frank Ramsey*,190,86,University of Kentucky,1931,Corydon,Kentucky
-381,Dick Rosenthal,196,92,University of Notre Dame,1930,nao informado,nao informado,
+381,Dick Rosenthal,196,92,University of Notre Dame,1930,nao informado,
 382,Frank Selvy,190,81,Furman University,1932,Corbin,Kentucky
 383,Gene Shue,188,77,University of Maryland,1931,Baltimore,Maryland
-384,Art Spoelstra,206,99,Western Kentucky University,1932,nao informado,nao informado,
+384,Art Spoelstra,206,99,Western Kentucky University,1932,nao informado,
 385,Jim Tucker,201,83,Duquesne University,1932,Paris,Kentucky
 386,Jack Turner,193,77,Western Kentucky University,1930,Bedford,Indiana
 387,Bobby Watson,183,72,University of Kentucky,1930,Central City,Kentucky
-388,Skippy Whitaker,185,81,University of Kentucky,1930,nao informado,nao informado,
+388,Skippy Whitaker,185,81,University of Kentucky,1930,nao informado,
 389,Jesse Arnelle,196,99,Pennsylvania State University,1933,New Rochelle,New York
 390,Dick Atha,188,86,Indiana State University,1931,Otterbein,Indiana
-391,Don Bielke,201,108,Valparaiso University,1931,nao informado,nao informado,
-392,Ed Conlin,196,90,Fordham University,1933,nao informado,nao informado,
-393,Red Davis,201,99,St. John's University,1932,nao informado,nao informado,
-394,Corky Devlin,196,88,George Washington University,1931,nao informado,nao informado,
+391,Don Bielke,201,108,Valparaiso University,1931,nao informado,
+392,Ed Conlin,196,90,Fordham University,1933,nao informado,
+393,Red Davis,201,99,St. John's University,1932,nao informado,
+394,Corky Devlin,196,88,George Washington University,1931,nao informado,
 395,Walter Dukes,213,99,Seton Hall University,1930,Rochester,New York
-396,Ron Feiereisel,190,83,DePaul University,1931,nao informado,nao informado,
+396,Ron Feiereisel,190,83,DePaul University,1931,nao informado,
 397,Al Ferrari,193,86,Michigan State University,1933,New York,New York
-398,Ed Fleming,190,85,Niagara University,1933,nao informado,nao informado,
+398,Ed Fleming,190,85,Niagara University,1933,nao informado,
 399,Dick Garmaker,190,90,University of Minnesota,1932,Hibbing,Minnesota
 400,Tom Gola*,198,92,La Salle University,1933,Philadelphia,Pennsylvania
 401,Chris Harris,190,86,University of Dayton,1933,Southampton,United Kingdom
 402,Dick Hemric,198,99,Wake Forest University,1933,Jonesville,North Carolina
-403,Larry Hennessy,190,83,Villanova University,1929,nao informado,nao informado,
-404,Johnny Horan,203,86,University of Dayton,1932,nao informado,nao informado,
+403,Larry Hennessy,190,83,Villanova University,1929,nao informado,
+404,Johnny Horan,203,86,University of Dayton,1932,nao informado,
 405,Jim Loscutoff,196,99,University of Oregon,1930,San Francisco,California
 406,Chuck Mencel,183,76,University of Minnesota,1933,Phillips,Wisconsin
-407,Chuck Noble,193,86,University of Louisville,1931,nao informado,nao informado,
+407,Chuck Noble,193,86,University of Louisville,1931,nao informado,
 408,Med Park,188,92,University of Missouri,1933,Britton,South Dakota
 409,Richie Regan,188,81,Seton Hall University,1930,Newark,New Jersey
 410,Dick Ricketts,201,97,Duquesne University,1933,Pottstown,Pennsylvania
 411,Bob Santini,196,86,Iona College,1935,Bronx,New York
-412,Bob Schafer,190,88,Villanova University,1935,nao informado,nao informado,
+412,Bob Schafer,190,88,Villanova University,1935,nao informado,
 413,Kenny Sears,206,89,Santa Clara University,1933,Watsonville,California
-414,Jack Stephens,190,83,University of Notre Dame,1933,nao informado,nao informado,
+414,Jack Stephens,190,83,University of Notre Dame,1933,nao informado,
 415,Maurice Stokes*,201,105,Saint Francis University,1933,Pittsburgh,Pennsylvania
 416,Jack Twyman*,198,95,University of Cincinnati,1934,Pittsburgh,Pennsylvania
-417,Bob Williams,198,104,Florida Agricultural and Mechanical University,1931,nao informado,nao informado,
-418,Forest Able,190,81,Western Kentucky University,1932,nao informado,nao informado,
+417,Bob Williams,198,104,Florida Agricultural and Mechanical University,1931,nao informado,
+418,Forest Able,190,81,Western Kentucky University,1932,nao informado,
 419,Bob Armstrong,203,99,Michigan State University,1933,Detroit,Michigan
-420,John Barber,198,95,California State University - Los Angeles,1927,nao informado,nao informado,
+420,John Barber,198,95,California State University - Los Angeles,1927,nao informado,
 421,Gary Bergen,203,95,University of Utah,1932,Independence,Missouri
 422,Al Bianchi,190,83,Bowling Green State University,1932,Long Island City,New York
 423,Bob Burrow,201,103,University of Kentucky,1934,Malvern,Arkansas
@@ -427,51 +427,51 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 425,Richie Guerin*,193,88,Iona College,1932,New York,New York
 426,Cliff Hagan*,193,95,University of Kentucky,1931,Owensboro,Kentucky
 427,Tom Heinsohn*,201,98,College of the Holy Cross,1934,Union City,New Jersey
-428,Joe Holup,198,97,George Washington University,1934,nao informado,nao informado,
+428,Joe Holup,198,97,George Washington University,1934,nao informado,
 429,Bob Hopkins,203,92,Grambling State University,1934,Jonesboro,Louisiana
 430,Phil Jordon,208,92,Whitworth,1933,Lakeport,California
 431,Hal Lear,183,73,Temple University,1935,Philadelphia,Pennsylvania
 432,Slick Leonard*,190,83,Indiana University,1932,Terre Haute,Indiana
-433,Johnny McCarthy,185,83,Canisius College,1934,nao informado,nao informado,
+433,Johnny McCarthy,185,83,Canisius College,1934,nao informado,
 434,Willie Naulls,198,102,University of California - Los Angeles,1934,Dallas,Texas
 435,Jim Paxson,198,90,University of Dayton,1932,Pennville,Indiana
-436,Dave Piontek,198,104,Xavier University,1934,nao informado,nao informado,
-437,Jim Ray,185,81,University of Toledo,1934,nao informado,nao informado,
+436,Dave Piontek,198,104,Xavier University,1934,nao informado,
+437,Jim Ray,185,81,University of Toledo,1934,nao informado,
 438,Bill Russell*,208,97,University of San Francisco,1934,Monroe,Louisiana
 439,Ron Shavlik,203,90,North Carolina State University,1933,Denver,Colorado
 440,Ron Sobie,190,83,DePaul University,1934,Chicago,Illinois
 441,Norm Stewart,196,92,University of Missouri,1935,Leonard,Missouri
-442,Bill Thieben,201,97,Hofstra University,1935,nao informado,nao informado,
+442,Bill Thieben,201,97,Hofstra University,1935,nao informado,
 443,Lou Tsioropoulos,196,86,University of Kentucky,1930,Lynn,Massachusetts
-444,Doug Bolstorff,193,88,University of Minnesota,1931,nao informado,nao informado,
-445,George Brown,198,86,Wayne State University,1935,nao informado,nao informado,
-446,Dick Duckett,185,83,St. John's University,1933,nao informado,nao informado,
-447,Pat Dunn,188,77,Utah State University,1931,nao informado,nao informado,
-448,Bill Ebben,193,86,University of Detroit Mercy,1935,nao informado,nao informado,
+444,Doug Bolstorff,193,88,University of Minnesota,1931,nao informado,
+445,George Brown,198,86,Wayne State University,1935,nao informado,
+446,Dick Duckett,185,83,St. John's University,1933,nao informado,
+447,Pat Dunn,188,77,Utah State University,1931,nao informado,
+448,Bill Ebben,193,86,University of Detroit Mercy,1935,nao informado,
 449,Bo Erias,190,99,Niagara University,1932,Astoria,New York
 450,Larry Friend,193,83,University of California,1935,Chicago,Illinois
-451,Hot Rod,193,83,nao informado,1935,nao informado,nao informado,
-452,McCoy Ingram,203,95,Jackson State University,1931,nao informado,nao informado,
+451,Hot Rod,193,83,nao informado,1935,nao informado,
+452,McCoy Ingram,203,95,Jackson State University,1931,nao informado,
 453,Sam Jones*,193,89,North Carolina Central University,1933,Wilmington,North Carolina
 454,Jim Krebs,203,104,Southern Methodist University,1935,Webster Groves,Missouri
 455,Brendan McCann,188,80,St. Bonaventure University,1935,Brooklyn,New York
 456,Worthy Patterson,188,79,University of Connecticut,1931,New Haven,Connecticut
-457,Jerry Paulson,188,83,Manhattan College,1935,nao informado,nao informado,
-458,Ray Radziszewski,196,95,Saint Joseph's University,1935,nao informado,nao informado,
+457,Jerry Paulson,188,83,Manhattan College,1935,nao informado,
+458,Ray Radziszewski,196,95,Saint Joseph's University,1935,nao informado,
 459,Lennie Rosenbluth,193,86,University of North Carolina,1933,New York,New York
 460,Woody Sauldsberry,201,99,Texas Southern University,1934,Winnsboro,Louisiana
 461,Guy Sparrow,198,98,University of Detroit Mercy,1932,Pontiac,Michigan
 462,Charlie Tyra,203,104,University of Louisville,1935,Louisville,Kentucky
 463,Jim Walsh,193,88,Stanford University,1930,San Francisco,California
-464,Win Wilfong,188,83,University of Memphis,1933,nao informado,nao informado,
+464,Win Wilfong,188,83,University of Memphis,1933,nao informado,
 465,Elgin Baylor*,196,102,Seattle University,1934,Washington,District of Columbia
 466,Jerry Bird,198,95,University of Kentucky,1935,Corbin,Kentucky
 467,Bucky Bockhorn,193,90,University of Dayton,1933,Campbell Hill,Illinois
 468,Pete Brennan,198,92,University of North Carolina,1936,Brooklyn,New York
-469,Barney Cable,201,79,Bradley University,1935,nao informado,nao informado,
+469,Barney Cable,201,79,Bradley University,1935,nao informado,
 470,Archie Dees,203,92,Indiana University,1936,Ethel,Mississippi
 471,Connie Dierking,206,100,University of Cincinnati,1936,Brooklyn,New York
-472,Boo Ellis,196,83,Niagara University,1936,nao informado,nao informado,
+472,Boo Ellis,196,83,Niagara University,1936,nao informado,
 473,Wayne Embry*,203,108,Miami University,1937,Springfield,Ohio
 474,Mike Farmer,201,95,University of San Francisco,1936,Oklahoma City,Oklahoma
 475,Dave Gambee,198,97,Oregon State University,1937,Portland,Oregon
@@ -479,17 +479,17 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 477,Steve Hamilton,198,86,Morehead State University,1935,Columbia,Kentucky
 478,Vern Hatton,190,88,University of Kentucky,1936,Owingsville,Kentucky
 479,Andy Johnson,196,97,University of Portland,1932,Los Angeles,California
-480,K.C. Jones*,196,97,nao informado,1932,nao informado,nao informado,
+480,K.C. Jones*,196,97,nao informado,1932,nao informado,
 481,Tommy Kearns,180,83,University of North Carolina,1936,New York,New York
-482,Shellie McMillon,196,92,Bradley University,1936,nao informado,nao informado,
+482,Shellie McMillon,196,92,Bradley University,1936,nao informado,
 483,Jim Palmer,203,101,University of Dayton,1933,Keokee,Virginia
 484,Jack Parr,206,99,Kansas State University,1936,Louisville,Kentucky
 485,Hub Reed,206,97,Oklahoma City University,1936,Harrah,Oklahoma
 486,Guy Rodgers*,183,83,Temple University,1935,Philadelphia,Pennsylvania
 487,Phil Rollins,188,83,University of Louisville,1934,Wickliffe,Kentucky
-488,Larry Staverman,201,92,Thomas More College,1936,nao informado,nao informado,
-489,Bennie Swain,203,99,Texas Southern University,1933,nao informado,nao informado,
-490,Gary Alcorn,206,102,California State University - Fresno,1936,nao informado,nao informado,
+488,Larry Staverman,201,92,Thomas More College,1936,nao informado,
+489,Bennie Swain,203,99,Texas Southern University,1933,nao informado,
+490,Gary Alcorn,206,102,California State University - Fresno,1936,nao informado,
 491,Bob Anderegg,190,90,Michigan State University,1937,Monroe,Wisconsin
 492,Dick Barnett,193,86,Tennessee State University,1936,Gary,Indiana
 493,Whitey Bell,183,81,North Carolina State University,1932,Monticello,Kentucky
@@ -499,70 +499,70 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 497,Gene Guarilia,196,99,George Washington University,1937,Duryea,Pennsylvania
 498,Tom Hawkins,196,95,University of Notre Dame,1936,Chicago,Illinois
 499,Bailey Howell*,201,95,Mississippi State University,1937,Middleton,Tennessee
-500,Maury King,188,88,University of Kansas,1935,nao informado,nao informado,
+500,Maury King,188,88,University of Kansas,1935,nao informado,
 501,Rudy LaRusso,201,99,Dartmouth College,1937,Brooklyn,New York
-502,Nick Mantis,190,86,Northwestern University,1935,nao informado,nao informado,
+502,Nick Mantis,190,86,Northwestern University,1935,nao informado,
 503,Cal Ramsey,193,90,New York University,1937,Selma,Alabama
-504,John Richter,206,102,North Carolina State University,1937,nao informado,nao informado,
+504,John Richter,206,102,North Carolina State University,1937,nao informado,
 505,Joe Ruklick,206,99,Northwestern University,1938,Princeton,Illinois
-506,Bobby Smith,193,86,West Virginia University,1937,nao informado,nao informado,
-507,Wayne Stevens,190,83,University of Cincinnati,1936,nao informado,nao informado,
-508,Tony Windis,185,72,University of Wyoming,1933,nao informado,nao informado,
+506,Bobby Smith,193,86,West Virginia University,1937,nao informado,
+507,Wayne Stevens,190,83,University of Cincinnati,1936,nao informado,
+508,Tony Windis,185,72,University of Wyoming,1933,nao informado,
 509,Al Attles,183,79,North Carolina Agricultural and Technical State University,1936,Newark,New Jersey
 510,Bob Boozer,203,97,Kansas State University,1937,Omaha,Nebraska
 511,Dave Budd,198,92,Wake Forest University,1938,Woodbury,New Jersey
 512,Ralph Davis,193,81,University of Cincinnati,1938,Vanceburg,Kentucky
-513,Swede Halbrook,221,106,Oregon State University,1933,nao informado,nao informado,
+513,Swede Halbrook,221,106,Oregon State University,1933,nao informado,
 514,Darrall Imhoff,208,99,University of California,1938,San Gabriel,California
-515,Ron Johnson,203,97,University of Minnesota,1938,nao informado,nao informado,
-516,Howie Jolliff,203,97,nao informado,1938,nao informado,nao informado,
-517,Willie Jones,190,83,Northwestern University,1936,nao informado,nao informado,
+515,Ron Johnson,203,97,University of Minnesota,1938,nao informado,
+516,Howie Jolliff,203,97,nao informado,1938,nao informado,
+517,Willie Jones,190,83,Northwestern University,1936,nao informado,
 518,Pickles Kennedy,180,81,Temple University,1938,Philadelphia,Pennsylvania
-519,Fred LaCour,196,95,University of San Francisco,1938,nao informado,nao informado,
-520,George Lee,193,90,University of Michigan,1936,nao informado,nao informado,
+519,Fred LaCour,196,95,University of San Francisco,1938,nao informado,
+520,George Lee,193,90,University of Michigan,1936,nao informado,
 521,Bob McNeill,185,77,Saint Joseph's University,1938,Philadelphia,Pennsylvania
 522,Jackie Moreland,201,97,Louisiana Tech University,1938,Minden,Louisiana
 523,Don Ohl,190,86,University of Illinois at Urbana-Champaign,1936,Murphysboro,Illinois
-524,Joe Roberts,198,97,Ohio State University,1936,nao informado,nao informado,
+524,Joe Roberts,198,97,Ohio State University,1936,nao informado,
 525,Oscar Robertson*,196,92,University of Cincinnati,1938,Charlotte,Tennessee
 526,Tom Sanders*,198,95,New York University,1938,New York,New York
 527,Jerry West*,188,79,West Virginia University,1938,Chelyan,West Virginia
 528,Lenny Wilkens*,185,81,Providence College,1937,Brooklyn,New York
-529,Stacey Arceneaux,193,95,Iowa State University,1936,nao informado,nao informado,
+529,Stacey Arceneaux,193,95,Iowa State University,1936,nao informado,
 530,Walt Bellamy*,211,102,Indiana University,1939,New Bern,North Carolina
 531,George Blaney,185,79,College of the Holy Cross,1939,Jersey City,New Jersey
-532,George Bon,185,79,nao informado,1939,nao informado,nao informado,
-533,Joe Buckhalter,201,95,Tennessee State University,1937,nao informado,nao informado,
+532,George Bon,185,79,nao informado,1939,nao informado,
+533,Joe Buckhalter,201,95,Tennessee State University,1937,nao informado,
 534,Cleveland Buckner,206,95,Jackson State University,1938,Yazoo City,Mississippi
-535,Ed Burton,198,102,Michigan State University,1939,nao informado,nao informado,
+535,Ed Burton,198,102,Michigan State University,1939,nao informado,
 536,Donnie Butcher,188,90,Pikeville College,1936,Williamsport,Kentucky
 537,Al Butler,188,79,Niagara University,1938,Rochester,New York
 538,Howie Carl,175,72,DePaul University,1938,Chicago,Illinois
 539,Jimmy Darrow,178,77,Bowling Green State University,1937,Akron,Ohio
 540,Johnny Egan,180,81,Providence College,1939,Hartford,Connecticut
-541,Rich Eichhorst,180,81,nao informado,1939,nao informado,nao informado,
+541,Rich Eichhorst,180,81,nao informado,1939,nao informado,
 542,Cleo Hill,185,83,Winston-Salem State University,1938,Newark,New Jersey
 543,Ron Horn,201,99,Indiana University,1938,Marion,Indiana
-544,Doug Kistler,206,95,Duke University,1938,nao informado,nao informado,
+544,Doug Kistler,206,95,Duke University,1938,nao informado,
 545,York Larese,193,83,University of North Carolina,1938,New York,New York
-546,Ted Luckenbill,198,92,University of Houston,1939,nao informado,nao informado,
-547,Whitey Martin,188,83,St. Bonaventure University,1939,nao informado,nao informado,
+546,Ted Luckenbill,198,92,University of Houston,1939,nao informado,
+547,Whitey Martin,188,83,St. Bonaventure University,1939,nao informado,
 548,Tom Meschery,198,97,Saint Mary's College of California,1938,Harbin Manchuria,China
-549,Paul Neumann,185,79,Stanford University,1938,nao informado,nao informado,
+549,Paul Neumann,185,79,Stanford University,1938,nao informado,
 550,Bevo Nordmann,208,102,Saint Louis University,1939,St. Louis,Missouri
-551,Chuck Osborne,198,95,Western Kentucky University,1939,nao informado,nao informado,
+551,Chuck Osborne,198,95,Western Kentucky University,1939,nao informado,
 552,Gary Phillips,190,85,University of Houston,1939,Quincy,Illinois
-553,Frank Radovich,203,106,Indiana University,1938,nao informado,nao informado,
+553,Frank Radovich,203,106,Indiana University,1938,nao informado,
 554,Ray Scott,206,97,University of Portland,1938,Philadelphia,Pennsylvania
 555,Lee Shaffer,201,99,University of North Carolina,1939,Chicago,Illinois
-556,Bob Sims,196,99,Pepperdine University,1938,nao informado,nao informado,
+556,Bob Sims,196,99,Pepperdine University,1938,nao informado,
 557,Adrian Smith,185,81,University of Kentucky,1936,Farmington,Kentucky
-558,Bill Smith,196,86,Saint Peter's College,1939,nao informado,nao informado,
+558,Bill Smith,196,86,Saint Peter's College,1939,nao informado,
 559,Sam Stith,188,83,St. Bonaventure University,1937,Greenville County,Virginia
 560,Horace Walker,190,95,Michigan State University,1937,Chester,Pennsylvania
-561,Bob Wiesenhahn,193,97,University of Cincinnati,1938,nao informado,nao informado,
-562,Wayne Yates,203,106,University of Memphis,1937,nao informado,nao informado,
-563,Dave Zeller,185,79,Miami University,1939,nao informado,nao informado,
+561,Bob Wiesenhahn,193,97,University of Cincinnati,1938,nao informado,
+562,Wayne Yates,203,106,University of Memphis,1937,nao informado,
+563,Dave Zeller,185,79,Miami University,1939,nao informado,
 564,John Barnhill,185,81,Tennessee State University,1938,Sturgis,Kentucky
 565,Zelmo Beaty*,206,102,Prairie View A&M University,1939,Hillister,Texas
 566,Bill Bridges,198,103,University of Kansas,1939,Hobbs,New Mexico
@@ -571,42 +571,42 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 569,Dave DeBusschere*,198,99,University of Detroit Mercy,1940,Detroit,Michigan
 570,Terry Dischinger,201,85,Purdue University,1940,Terre Haute,Indiana
 571,Danny Doyle,203,90,Belmont Abbey College,1940,Long Island City,New York
-572,Bob Duffy,193,79,Tulane University,1922,nao informado,nao informado,
+572,Bob Duffy,193,79,Tulane University,1922,nao informado,
 573,Leroy Ellis,208,95,St. John's University,1940,Far Rockaway,New York
-574,Dave Fedor,198,86,Florida State University,1940,nao informado,nao informado,
+574,Dave Fedor,198,86,Florida State University,1940,nao informado,
 575,Jack Foley,190,77,College of the Holy Cross,1939,Worcester,Massachusetts
-576,Dave Gunther,201,86,University of Iowa,1937,nao informado,nao informado,
+576,Dave Gunther,201,86,University of Iowa,1937,nao informado,
 577,Charlie Hardnett,203,102,Grambling State University,1938,Atlanta,Georgia
 578,John Havlicek*,196,92,Ohio State University,1940,Martins Ferry,Ohio
 579,Wayne Hightower,203,87,University of Kansas,1940,Philadelphia,Pennsylvania
-580,Paul Hogue,203,87,nao informado,1940,nao informado,nao informado,
+580,Paul Hogue,203,87,nao informado,1940,nao informado,
 581,Kevin Loughery,190,86,St. John's University,1940,Brooklyn,New York
 582,Bill McGill,206,102,University of Utah,1939,San Angelo,Texas
-583,Porter Meriwether,188,81,Tennessee State University,1940,nao informado,nao informado,
-584,Howie Montgomery,196,99,University of Texas-Pan American,1940,nao informado,nao informado,
+583,Porter Meriwether,188,81,Tennessee State University,1940,nao informado,
+584,Howie Montgomery,196,99,University of Texas-Pan American,1940,nao informado,
 585,Don Nelson*,198,95,University of Iowa,1940,Muskegon,Michigan
-586,Mel Nowell,188,77,Ohio State University,1939,nao informado,nao informado,
-587,Bud Olsen,203,99,University of Louisville,1940,nao informado,nao informado,
+586,Mel Nowell,188,77,Ohio State University,1939,nao informado,
+587,Bud Olsen,203,99,University of Louisville,1940,nao informado,
 588,John Rudometkin,198,92,University of Southern California,1940,Santa Maria,California
-589,Jeff Slade,198,99,Kenyon College,1941,nao informado,nao informado,
+589,Jeff Slade,198,99,Kenyon College,1941,nao informado,
 590,Tom Stith,196,95,St. Bonaventure University,1939,Greenville County,Virginia
 591,Dan Swartz,193,97,Morehead State University,1934,Owingsville,Kentucky
 592,Dan Tieman,183,83,Thomas More College,1940,Covington,Kentucky
-593,Gene Tormohlen,183,83,nao informado,1940,nao informado,nao informado,
+593,Gene Tormohlen,183,83,nao informado,1940,nao informado,
 594,Chico Vaughn,188,86,Southern Illinois University,1940,Portland,Oregon
 595,Chet Walker*,198,96,Bradley University,1940,Bethlehem,Mississippi
 596,Ben Warley,196,90,Tennessee State University,1936,Washington,District of Columbia
-597,Ralph Wells,185,81,Northwestern University,1940,nao informado,nao informado,
-598,Hubie White,193,92,Villanova University,1940,nao informado,nao informado,
-599,Gene Wiley,208,95,Wichita State University,1937,nao informado,nao informado,
+597,Ralph Wells,185,81,Northwestern University,1940,nao informado,
+598,Hubie White,193,92,Villanova University,1940,nao informado,
+599,Gene Wiley,208,95,Wichita State University,1937,nao informado,
 600,Jay Arnette,188,79,University of Texas at Austin,1938,Austin,Texas
-601,Larry Comley,196,95,Kansas State University,1939,nao informado,nao informado,
+601,Larry Comley,196,95,Kansas State University,1939,nao informado,
 602,Mel Gibson,190,81,Western Carolina University,1940,Cordova,North Carolina
-603,Jerry Greenspan,196,88,University of Maryland,1941,nao informado,nao informado,
-604,Reggie Harding,213,112,nao informado,1942,nao informado,nao informado,
+603,Jerry Greenspan,196,88,University of Maryland,1941,nao informado,
+604,Reggie Harding,213,112,nao informado,1942,nao informado,
 605,Jerry Harkness,188,79,Loyola University of Chicago,1940,New York,New York
 606,Art Heyman,196,92,Duke University,1941,New York,New York
-607,Gary Hill,193,83,Oklahoma City University,1941,nao informado,nao informado,
+607,Gary Hill,193,83,Oklahoma City University,1941,nao informado,
 608,Tom Hoover,206,104,Villanova University,1941,Washington,District of Columbia
 609,Gus Johnson*,198,104,University of Idaho,1938,Akron,Ohio
 610,Jim King,188,79,University of Tulsa,1941,Tulsa,Oklahoma
@@ -614,24 +614,24 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 612,Jerry Lucas*,203,104,Ohio State University,1940,Middletown,Ohio
 613,Eddie Miles,193,88,Seattle University,1940,North Little Rock,Arkansas
 614,Mel Peterson,193,83,Wheaton College,1938,Thief River Falls,Minnesota
-615,Ken Rohloff,183,88,North Carolina State University,1939,nao informado,nao informado,
+615,Ken Rohloff,183,88,North Carolina State University,1939,nao informado,
 616,Larry Siegfried,190,86,Ohio State University,1939,Shelby,Ohio
 617,Roger Strickland,196,90,Jacksonville University,1940,Jacksonville,Florida
 618,Tom Thacker,188,77,University of Cincinnati,1939,Covington,Kentucky
 619,Rod Thorn,193,88,West Virginia University,1941,Princeton,West Virginia
 620,Nate Thurmond*,211,102,Bowling Green State University,1941,Akron,Ohio
-621,Gerry Ward,193,88,Boston College,1941,nao informado,nao informado,
-622,John Windsor,203,97,Stanford University,1940,nao informado,nao informado,
+621,Gerry Ward,193,88,Boston College,1941,nao informado,
+622,John Windsor,203,97,Stanford University,1940,nao informado,
 623,Jim Barnes,203,95,University of Texas at El Paso,1941,Tuckerman,Arkansas
 624,Ron Bonham,196,87,University of Cincinnati,1942,Muncie,Indiana
 625,Gary Bradds,203,95,Ohio State University,1942,Jamestown,Ohio
 626,Em Bryant,185,79,DePaul University,1938,Chicago,Illinois
 627,Joe Caldwell,196,88,Arizona State University,1941,Texas City,Texas
 628,Mel Counts,213,104,Oregon State University,1941,Coos Bay,Oregon
-629,Steve Courtin,185,85,Saint Joseph's University,1942,nao informado,nao informado,
-630,Jerry Grote,193,97,Loyola Marymount University,1940,nao informado,nao informado,
+629,Steve Courtin,185,85,Saint Joseph's University,1942,nao informado,
+630,Jerry Grote,193,97,Loyola Marymount University,1940,nao informado,
 631,Happy Hairston,201,102,New York University,1942,Winston-Salem,North Carolina
-632,Walt Hazzard,201,102,nao informado,1942,nao informado,nao informado,
+632,Walt Hazzard,201,102,nao informado,1942,nao informado,
 633,Les Hunter,201,95,Loyola University of Chicago,1942,Nashville,Tennessee
 634,Luke Jackson,206,108,University of Texas-Pan American,1941,San Marcos,Texas
 635,Larry Jones,188,81,University of Toledo,1942,Columbus,Ohio
@@ -645,7 +645,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 643,Willis Reed*,206,106,Grambling State University,1942,Hico,Louisiana
 644,Paul Silas,201,99,Creighton University,1943,Prescott,Arkansas
 645,John Thompson*,208,102,Providence College,1941,Washington,District of Columbia
-646,John Tresvant,201,97,Seattle University,1939,nao informado,nao informado,
+646,John Tresvant,201,97,Seattle University,1939,nao informado,
 647,George Wilson,203,102,University of Cincinnati,1942,Meridian,Mississippi
 648,Rick Barry*,201,92,University of Miami,1944,Elizabeth,New Jersey
 649,Jesse Branson,201,88,Elon University,1942,Burlington,North Carolina
@@ -664,11 +664,11 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 662,Willie Somerset,173,77,Duquesne University,1942,Sharon,Pennsylvania
 663,Dave Stallworth,201,90,Wichita State University,1941,Dallas,Texas
 664,Joe Strawder,208,106,Bradley University,1940,Belle Glade,Florida
-665,Dick Van,208,106,nao informado,1940,nao informado,nao informado,
-666,Tom Van,208,106,nao informado,1940,nao informado,nao informado,
+665,Dick Van,208,106,nao informado,1940,nao informado,
+666,Tom Van,208,106,nao informado,1940,nao informado,
 667,Bob Warlick,196,90,Pepperdine University,1941,Hickory,North Carolina
 668,Jim Washington,198,95,Villanova University,1943,Philadelphia,Pennsylvania
-669,Ron Watts,198,95,Wake Forest University,1943,nao informado,nao informado,
+669,Ron Watts,198,95,Wake Forest University,1943,nao informado,
 670,Bob Weiss,188,81,Pennsylvania State University,1942,Easton,Pennsylvania
 671,Henry Akin,208,102,Morehead State University,1944,Detroit,Michigan
 672,Johnny Austin,183,77,Boston College,1944,Washington,District of Columbia
@@ -680,94 +680,94 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 678,Archie Clark,188,79,University of Minnesota,1941,Conway,Arkansas
 679,Freddie Crawford,193,85,St. Bonaventure University,1941,New York,New York
 680,Dave Deutsch,185,77,University of Rochester,1945,Brooklyn,New York
-681,Joe Ellis,198,79,University of San Francisco,1944,nao informado,nao informado,
+681,Joe Ellis,198,79,University of San Francisco,1944,nao informado,
 682,Hank Finkel,213,108,University of Dayton,1942,Union City,New Jersey
-683,Matt Guokas,190,88,Saint Joseph's University,1915,nao informado,nao informado,
-684,Bob Hogsett,201,104,University of Tennessee,1941,nao informado,nao informado,
+683,Matt Guokas,190,88,Saint Joseph's University,1915,nao informado,
+684,Bob Hogsett,201,104,University of Tennessee,1941,nao informado,
 685,Lou Hudson,196,95,University of Minnesota,1944,Greensboro,North Carolina
 686,Neil Johnson,203,95,Ohio State University,1929,Chillicothe,Ohio
 687,Toby Kimball,198,99,University of Connecticut,1942,Framingham,Massachusetts
-688,Tommy Kron,196,90,University of Kentucky,1943,nao informado,nao informado,
+688,Tommy Kron,196,90,University of Kentucky,1943,nao informado,
 689,Clyde Lee,208,92,Vanderbilt University,1944,Nashville,Tennessee
 690,Bob Love,203,97,Southern University and A&M College,1942,Bastrop,Louisiana
 691,Jack Marin,201,90,Duke University,1944,Sharon,Pennsylvania
 692,Bill Melchionni,185,74,Villanova University,1944,Philadelphia,Pennsylvania
 693,Wayne Molis,203,104,Lewis University,1943,Chicago,Illinois
-694,Erwin Mueller,203,104,University of San Francisco,1944,nao informado,nao informado,
-695,Dorie Murrey,203,97,University of Detroit Mercy,1943,nao informado,nao informado,
+694,Erwin Mueller,203,104,University of San Francisco,1944,nao informado,
+695,Dorie Murrey,203,97,University of Detroit Mercy,1943,nao informado,
 696,Flynn Robinson,185,83,University of Wyoming,1941,Elgin,Illinois
 697,Cazzie Russell,196,98,University of Michigan,1944,Chicago,Illinois
 698,Dave Schellhase,190,92,Purdue University,1944,Evansville,Indiana
 699,Dick Snyder,196,93,Davidson College,1944,North Canton,Ohio
 700,Jim Ware,201,95,Oklahoma City University,1944,Natchez,Mississippi
 701,Walt Wesley,211,99,University of Kansas,1945,Fort Myers,Florida
-702,Bud Acton,198,95,Hillsdale College,1942,nao informado,nao informado,
-703,Cliff Anderson,188,90,Saint Joseph's University,1944,nao informado,nao informado,
+702,Bud Acton,198,95,Hillsdale College,1942,nao informado,
+703,Cliff Anderson,188,90,Saint Joseph's University,1944,nao informado,
 704,Bill Bradley*,196,92,Princeton University,1943,Crystal City,Missouri
-705,Tyrone Britt,193,86,Johnson C. Smith University,1944,nao informado,nao informado,
-706,Jim Burns,190,88,Northwestern University,1945,nao informado,nao informado,
+705,Tyrone Britt,193,86,Johnson C. Smith University,1944,nao informado,
+706,Jim Burns,190,88,Northwestern University,1945,nao informado,
 707,Jim Caldwell,208,108,Georgia Institute of Technology,1943,Durham,North Carolina
 708,George Carter,193,95,St. Bonaventure University,1944,Buffalo,New York
 709,Jim Davis,206,102,University of Colorado,1941,Muncie,Indiana
-710,Bill Dinwiddie,201,99,New Mexico Highlands University,1943,nao informado,nao informado,
+710,Bill Dinwiddie,201,99,New Mexico Highlands University,1943,nao informado,
 711,Sonny Dove,201,89,St. John's University,1945,Brooklyn,New York
-712,Ron Filipek,196,92,Tennessee Technological University,1944,nao informado,nao informado,
+712,Ron Filipek,196,92,Tennessee Technological University,1944,nao informado,
 713,Jim Fox,208,104,University of South Carolina,1943,Atlanta,Georgia
 714,Walt Frazier*,193,90,Southern Illinois University,1945,Atlanta,Georgia
-715,Mal Graham,185,83,New York University,1945,nao informado,nao informado,
-716,Gary Gray,185,83,Oklahoma City University,1945,nao informado,nao informado,
+715,Mal Graham,185,83,New York University,1945,nao informado,
+716,Gary Gray,185,83,Oklahoma City University,1945,nao informado,
 717,Dennis Hamilton,203,95,Arizona State University,1944,Huntington Beach,California
 718,Clem Haskins,190,88,Western Kentucky University,1943,Campbellsville,Kentucky
 719,Al Jackson,185,83,Wilberforce University,1943,Cleveland,Ohio
 720,Phil Jackson*,203,99,University of North Dakota,1945,Deer Lodge,Montana
 721,Johnny Jones,201,92,California State University - Los Angeles,1943,Washington,District of Columbia
-722,Nick Jones,188,86,University of Oregon,1945,nao informado,nao informado,
+722,Nick Jones,188,86,University of Oregon,1945,nao informado,
 723,Dave Lattin,198,102,University of Texas at El Paso,1943,Houston,Texas
 724,George Lehmann,183,81,Campbell University,1942,Riverside,New Jersey
-725,Bobby Lewis,190,79,University of North Carolina,1945,nao informado,nao informado,
+725,Bobby Lewis,190,79,University of North Carolina,1945,nao informado,
 726,Paul Long,188,81,Wake Forest University,1944,Louisville,Kentucky
-727,Plummer Lott,196,95,Seattle University,1945,nao informado,nao informado,
+727,Plummer Lott,196,95,Seattle University,1945,nao informado,
 728,Ed Manning,201,95,Jackson State University,1944,Summit,Mississippi
 729,Stan McKenzie,196,88,New York University,1944,Miami,Florida
 730,Jay Miller,196,92,University of Notre Dame,1943,St. Louis,Missouri
 731,Earl Monroe*,190,83,Winston-Salem State University,1944,Philadelphia,Pennsylvania
-732,George Patterson,203,104,University of Toledo,1939,nao informado,nao informado,
-733,Jim Reid,198,95,Winston-Salem State University,1945,nao informado,nao informado,
+732,George Patterson,203,104,University of Toledo,1939,nao informado,
+733,Jim Reid,198,95,Winston-Salem State University,1945,nao informado,
 734,Pat Riley*,193,92,University of Kentucky,1945,Rome,New York
 735,Bob Rule,206,99,Colorado State University,1944,Riverside,California
-736,Craig Spitzer,213,102,Tulane University,1945,nao informado,nao informado,
+736,Craig Spitzer,213,102,Tulane University,1945,nao informado,
 737,Al Tucker,203,86,Oklahoma Baptist University,1943,Dayton,Ohio
-738,Bill Turner,201,99,University of Akron,1944,nao informado,nao informado,
+738,Bill Turner,201,99,University of Akron,1944,nao informado,
 739,Jimmy Walker,190,88,Providence College,1944,Amherst,Virginia
-740,Rick Weitzman,188,79,Northeastern University,1946,nao informado,nao informado,
-741,Roland West,193,80,University of Cincinnati,1944,nao informado,nao informado,
+740,Rick Weitzman,188,79,Northeastern University,1946,nao informado,
+741,Roland West,193,80,University of Cincinnati,1944,nao informado,
 742,John Wetzel,196,86,Virginia Polytechnic Institute and State University,1944,Waynesboro,Virginia
 743,Ken Wilburn,198,88,Central State University,1944,River Rouge,Michigan
 744,Art Williams,185,81,California State Polytechnic University - Pomona,1939,Bonham,Texas
 745,Tom Workman,201,98,Seattle University,1944,Seattle,Washington
 746,Zaid Abdul-Aziz,206,106,Iowa State University,1946,Brooklyn,New York
 747,Rick Adelman,185,79,Loyola Marymount University,1946,Lynwood,California
-748,Bob Allen,206,92,Marshall University,1946,nao informado,nao informado,
-749,Harry Barnes,190,92,Northeastern University,1945,nao informado,nao informado,
-750,Ed Biedenbach,185,79,North Carolina State University,1945,nao informado,nao informado,
+748,Bob Allen,206,92,Marshall University,1946,nao informado,
+749,Harry Barnes,190,92,Northeastern University,1945,nao informado,
+750,Ed Biedenbach,185,79,North Carolina State University,1945,nao informado,
 751,Tom Boerwinkle,213,120,University of Tennessee,1945,Cleveland,Ohio
-752,Jay Carty,203,99,Oregon State University,1941,nao informado,nao informado,
+752,Jay Carty,203,99,Oregon State University,1941,nao informado,
 753,Don Chaney,196,95,University of Houston,1946,Baton Rouge,Louisiana
 754,Dick Cunningham,208,111,Murray State University,1946,Canton,Ohio
 755,Fred Foster,196,95,Miami University,1946,Springfield,Ohio
-756,Pat Frink,193,88,University of Colorado,1945,nao informado,nao informado,
+756,Pat Frink,193,88,University of Colorado,1945,nao informado,
 757,Gary Gregor,201,102,University of South Carolina,1945,Charlestown,West Virginia
-758,Al Hairston,185,77,Bowling Green State University,1945,nao informado,nao informado,
+758,Al Hairston,185,77,Bowling Green State University,1945,nao informado,
 759,Shaler Halimon,196,90,Utah State University,1945,Tampa,Florida
-760,Skip Harlicka,185,83,University of South Carolina,1946,nao informado,nao informado,
-761,Art Harris,193,83,Stanford University,1947,nao informado,nao informado,
+760,Skip Harlicka,185,83,University of South Carolina,1946,nao informado,
+761,Art Harris,193,83,Stanford University,1947,nao informado,
 762,Elvin Hayes*,206,106,University of Houston,1945,Rayville,Louisiana
 763,Bill Hewitt,201,95,University of Southern California,1944,Cambridge,Massachusetts
 764,Bill Hosket,203,102,Ohio State University,1946,Dayton,Ohio
-765,Rich Johnson,201,95,Grambling State University,1946,nao informado,nao informado,
+765,Rich Johnson,201,95,Grambling State University,1946,nao informado,
 766,Bob Kauffman,203,108,Guilford College,1946,Brooklyn,New York
-767,Joe Kennedy,198,95,Duke University,1947,nao informado,nao informado,
-768,Rod Knowles,206,97,Davidson College,1946,nao informado,nao informado,
+767,Joe Kennedy,198,95,Duke University,1947,nao informado,
+768,Rod Knowles,206,97,Davidson College,1946,nao informado,
 769,Stu Lantz,190,79,University of Nebraska,1946,Uniontown,Pennsylvania
 770,Don May,193,90,University of Dayton,1946,Dayton,Ohio
 771,Otto Moore,211,92,University of Texas-Pan American,1946,Miami,Florida
@@ -775,7 +775,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 773,Rich Niemann,213,111,Saint Louis University,1946,St. Louis,Missouri
 774,Barry Orms,190,86,Saint Louis University,1946,St. Louis,Missouri
 775,Charlie Paulk,203,99,Northeastern State University,1946,Fitzgerald,Georgia
-776,Loy Petersen,196,92,Oregon State University,1945,nao informado,nao informado,
+776,Loy Petersen,196,92,Oregon State University,1945,nao informado,
 777,Bob Quick,196,97,Xavier University,1946,Thornton,Mississippi
 778,Craig Raymond,211,106,Brigham Young University,1945,Aberdeen,Washington
 779,Mike Riordan,193,90,Providence College,1945,New York,New York
@@ -785,24 +785,24 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 783,John Trapp,201,95,University of Nevada - Las Vegas,1945,Detroit,Michigan
 784,Wes Unseld*,201,111,University of Louisville,1946,Louisville,Kentucky
 785,Dwight Waller,198,99,Tennessee State University,1945,Brownsville,Tennessee
-786,Cliff Williams,190,81,Bowling Green State University,1945,nao informado,nao informado,
+786,Cliff Williams,190,81,Bowling Green State University,1945,nao informado,
 787,Ron Williams,190,85,West Virginia University,1944,Weirton,West Virginia
-788,Sam Williams,190,81,University of Iowa,1945,nao informado,nao informado,
+788,Sam Williams,190,81,University of Iowa,1945,nao informado,
 789,Kareem Abdul-Jabbar*,218,102,University of California - Los Angeles,1947,New York,New York
 790,Lucius Allen,188,79,University of California - Los Angeles,1947,Kansas City,Kansas
-791,Wally Anderzunas,201,99,Creighton University,1946,nao informado,nao informado,
-792,John Arthurs,193,83,Tulane University,1947,nao informado,nao informado,
+791,Wally Anderzunas,201,99,Creighton University,1946,nao informado,
+792,John Arthurs,193,83,Tulane University,1947,nao informado,
 793,Johnny Baum,196,90,Temple University,1946,Philadelphia,Pennsylvania
 794,Butch Beard,190,83,University of Louisville,1947,Hardinsburg,Kentucky
 795,Fred Carter,190,83,Mount St. Mary's University,1945,Philadelphia,Pennsylvania
 796,Bob Dandridge,198,88,Norfolk State University,1947,Richmond,Virginia
 797,Mike Davis,190,83,Virginia Union University,1946,Brooklyn,New York
-798,Dick Garrett,190,83,Southern Illinois University,1947,nao informado,nao informado,
+798,Dick Garrett,190,83,Southern Illinois University,1947,nao informado,
 799,Herm Gilliam,190,86,Purdue University,1946,Winston-Salem,North Carolina
-800,Bob Greacen,201,93,Rutgers University,1947,nao informado,nao informado,
+800,Bob Greacen,201,93,Rutgers University,1947,nao informado,
 801,Lamar Green,201,95,Morehead State University,1947,Birmingham,Alabama
 802,Connie Hawkins*,203,95,University of Iowa,1942,Brooklyn,New York
-803,Brian Heaney,188,81,Acadia University,1946,nao informado,nao informado,
+803,Brian Heaney,188,81,Acadia University,1946,nao informado,
 804,Steve Kuberski,203,97,Bradley University,1947,Moline,Illinois
 805,Mike Lynn,201,97,University of California - Los Angeles,1945,Covina,California
 806,Willie McCarter,190,79,Drake University,1946,Gary,Indiana
@@ -811,139 +811,139 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 809,Bud Ogden,198,97,Santa Clara University,1946,San Luis Obispo,California
 810,Bob Portman,196,90,Creighton University,1947,San Francisco,California
 811,Luther Rackley,208,99,Xavier University,1946,Bainbridge,Georgia
-812,George Reynolds,193,88,University of Houston,1947,nao informado,nao informado,
+812,George Reynolds,193,88,University of Houston,1947,nao informado,
 813,Rick Roberson,206,104,University of Cincinnati,1947,Memphis,Tennessee
-814,Dave Scholz,203,99,University of Illinois at Urbana-Champaign,1948,nao informado,nao informado,
-815,Bingo Smith,196,86,Saint Peter's College,1939,nao informado,nao informado,
-816,Norm Van,196,86,nao informado,1939,nao informado,nao informado,
+814,Dave Scholz,203,99,University of Illinois at Urbana-Champaign,1948,nao informado,
+815,Bingo Smith,196,86,Saint Peter's College,1939,nao informado,
+816,Norm Van,196,86,nao informado,1939,nao informado,
 817,Neal Walk,208,99,University of Florida,1948,Cleveland,Ohio
 818,John Warren,190,81,St. John's University,1947,Sparta,Georgia
-819,Jo Jo,190,81,nao informado,1947,nao informado,nao informado,
+819,Jo Jo,190,81,nao informado,1947,nao informado,
 820,Bernie Williams,190,79,La Salle University,1945,Washington,District of Columbia
 821,Lee Winfield,188,78,University of North Texas,1947,St. Louis,Missouri
 822,Don Adams,198,95,Northwestern University,1947,Atlanta,Georgia
 823,Tiny Archibald*,185,68,University of Texas at El Paso,1948,New York,New York
 824,Bob Arnzen,196,92,University of Notre Dame,1947,Covington,Kentucky
 825,Dennis Awtrey,208,106,Santa Clara University,1948,Hollywood,California
-826,Moe Barr,193,88,Duquesne University,1944,nao informado,nao informado,
-827,Tom Black,208,99,South Dakota State University,1941,nao informado,nao informado,
-828,Bob Christian,208,115,Grambling State University,1946,nao informado,nao informado,
-829,Jimmy Collins,188,79,New Mexico State University,1946,nao informado,nao informado,
-830,Joe Cooke,190,79,Indiana University,1948,nao informado,nao informado,
+826,Moe Barr,193,88,Duquesne University,1944,nao informado,
+827,Tom Black,208,99,South Dakota State University,1941,nao informado,
+828,Bob Christian,208,115,Grambling State University,1946,nao informado,
+829,Jimmy Collins,188,79,New Mexico State University,1946,nao informado,
+830,Joe Cooke,190,79,Indiana University,1948,nao informado,
 831,Dave Cowens*,206,104,Florida State University,1948,Newport,Kentucky
-832,Pete Cross,206,104,University of San Francisco,1948,nao informado,nao informado,
+832,Pete Cross,206,104,University of San Francisco,1948,nao informado,
 833,Terry Driscoll,201,97,Boston College,1947,Winthrop,Massachusetts
 834,Claude English,193,83,University of Rhode Island,1946,Columbus,Georgia
 835,Greg Fillmore,216,108,Cheyney University of Pennsylvania,1947,Philadelphia,Pennsylvania
-836,Levi Fontaine,193,86,University of Maryland Eastern Shore,1948,nao informado,nao informado,
-837,Jake Ford,190,81,University of Maryland Eastern Shore,1946,nao informado,nao informado,
-838,Gary Freeman,206,95,Oregon State University,1948,nao informado,nao informado,
-839,Walt Gilmore,198,102,Fort Valley State University,1947,nao informado,nao informado,
+836,Levi Fontaine,193,86,University of Maryland Eastern Shore,1948,nao informado,
+837,Jake Ford,190,81,University of Maryland Eastern Shore,1946,nao informado,
+838,Gary Freeman,206,95,Oregon State University,1948,nao informado,
+839,Walt Gilmore,198,102,Fort Valley State University,1947,nao informado,
 840,Spencer Haywood*,203,102,University of Detroit Mercy,1949,Silver City,Mississippi
 841,Gar Heard,198,99,University of Oklahoma,1948,Hogansville,Georgia
-842,Al Henry,206,86,University of Wisconsin,1949,nao informado,nao informado,
-843,A.W. Holt,206,86,nao informado,1949,nao informado,nao informado,
+842,Al Henry,206,86,University of Wisconsin,1949,nao informado,
+843,A.W. Holt,206,86,nao informado,1949,nao informado,
 844,Greg Howard,206,97,University of New Mexico,1948,Pittsburgh,Pennsylvania
 845,John Hummer,206,104,Princeton University,1948,Washington,District of Columbia
-846,Greg Hyder,198,97,Eastern New Mexico University,1948,nao informado,nao informado,
+846,Greg Hyder,198,97,Eastern New Mexico University,1948,nao informado,
 847,George Johnson,211,111,Stephen F. Austin State University,1947,Herleton,Texas
 848,John Johnson,201,90,University of Iowa,1947,Carthage,Mississippi
-849,Earnie Killum,190,81,Stetson University,1948,nao informado,nao informado,
-850,Ron Knight,201,97,California State University - Los Angeles,1947,nao informado,nao informado,
+849,Earnie Killum,190,81,Stetson University,1948,nao informado,
+850,Ron Knight,201,97,California State University - Los Angeles,1947,nao informado,
 851,Sam Lacey,208,106,New Mexico State University,1948,Indianaola,Mississippi
 852,Bob Lanier*,211,113,St. Bonaventure University,1948,Buffalo,New York
 853,Pete Maravich*,196,89,Louisiana State University,1947,Aliquippa,Pennsylvania
-854,Harvey Marlatt,190,83,Eastern Michigan University,1948,nao informado,nao informado,
+854,Harvey Marlatt,190,83,Eastern Michigan University,1948,nao informado,
 855,Eddie Mast,206,99,Temple University,1948,Philadelphia,Pennsylvania
 856,Jim McMillian,196,97,Columbia University,1948,Raeford,North Carolina
-857,Larry Mikan,201,95,University of Minnesota,1948,nao informado,nao informado,
+857,Larry Mikan,201,95,University of Minnesota,1948,nao informado,
 858,Rex Morgan,196,86,Jacksonville University,1948,Charleston,Illinois
 859,Calvin Murphy*,175,74,Niagara University,1948,Norwalk,Connecticut
-860,Ralph Ogden,196,92,Santa Clara University,1948,nao informado,nao informado,
+860,Ralph Ogden,196,92,Santa Clara University,1948,nao informado,
 861,Curtis Perry,201,99,Missouri State University,1948,Washington,District of Columbia
 862,Geoff Petrie,193,86,Princeton University,1948,Darby,Pennsylvania
 863,Mike Price,190,90,University of Illinois at Urbana-Champaign,1948,Russellville,Kentucky
-864,Bob Riley,206,106,Mount St. Mary's University,1948,nao informado,nao informado,
+864,Bob Riley,206,106,Mount St. Mary's University,1948,nao informado,
 865,Paul Ruffner,208,102,Brigham Young University,1948,Downey,California
 866,Mike Silliman,198,102,United States Military Academy,1944,Louisville,Kentucky
 867,Garfield Smith,206,106,Eastern Kentucky University,1945,Campbellsville,Kentucky
-868,Dave Sorenson,203,102,Ohio State University,1948,nao informado,nao informado,
-869,Dennis Stewart,198,99,University of Michigan,1947,nao informado,nao informado,
-870,Bill Stricker,206,95,University of the Pacific,1948,nao informado,nao informado,
-871,Gary Suiter,206,102,Midwestern State University,1945,nao informado,nao informado,
+868,Dave Sorenson,203,102,Ohio State University,1948,nao informado,
+869,Dennis Stewart,198,99,University of Michigan,1947,nao informado,
+870,Bill Stricker,206,95,University of the Pacific,1948,nao informado,
+871,Gary Suiter,206,102,Midwestern State University,1945,nao informado,
 872,Fred Taylor,196,81,University of Texas-Pan American,1948,Houston,Texas
 873,Joe Thomas,198,92,Marquette University,1948,Canton,Georgia
 874,Rudy Tomjanovich,203,98,University of Michigan,1948,Hamtramck,Michigan
-875,John Vallely,190,83,University of California,1948,nao informado,nao informado,
+875,John Vallely,190,83,University of California,1948,nao informado,
 876,Cornell Warner,206,99,Jackson State University,1948,Jackson,Mississippi
-877,Bobby Washington,180,79,Eastern Kentucky University,1947,nao informado,nao informado,
-878,Jeff Webb,193,77,Kansas State University,1948,nao informado,nao informado,
-879,Herb White,188,88,University of Georgia,1948,nao informado,nao informado,
+877,Bobby Washington,180,79,Eastern Kentucky University,1947,nao informado,
+878,Jeff Webb,193,77,Kansas State University,1948,nao informado,
+879,Herb White,188,88,University of Georgia,1948,nao informado,
 880,Milt Williams,188,82,Lincoln University of Missouri,1945,Seattle,Washington
-881,Willie Williams,201,90,Florida State University,1946,nao informado,nao informado,
-882,Marv Winkler,185,74,University of Louisiana at Lafayette,1948,nao informado,nao informado,
-883,Gary Zeller,190,92,Drake University,1947,nao informado,nao informado,
-884,Bill Zopf,185,77,Duquesne University,1948,nao informado,nao informado,
-885,Odis Allison,198,88,University of Nevada - Las Vegas,1949,nao informado,nao informado,
-886,Vic Bartolome,213,104,Oregon State University,1948,nao informado,nao informado,
+881,Willie Williams,201,90,Florida State University,1946,nao informado,
+882,Marv Winkler,185,74,University of Louisiana at Lafayette,1948,nao informado,
+883,Gary Zeller,190,92,Drake University,1947,nao informado,
+884,Bill Zopf,185,77,Duquesne University,1948,nao informado,
+885,Odis Allison,198,88,University of Nevada - Las Vegas,1949,nao informado,
+886,Vic Bartolome,213,104,Oregon State University,1948,nao informado,
 887,Fred Brown,190,82,University of Iowa,1948,Milwaukee,Wisconsin
 888,Austin Carr,193,90,University of Notre Dame,1948,Washington,District of Columbia
-889,Sid Catlett,198,104,University of Notre Dame,1948,nao informado,nao informado,
+889,Sid Catlett,198,104,University of Notre Dame,1948,nao informado,
 890,Phil Chenier,190,81,University of California,1950,Berkeley,California
 891,Jim Cleamons,190,83,Ohio State University,1949,Lincolnton,North Carolina
 892,Charlie Davis,188,72,Wake Forest University,1949,New York,New York
-893,Jackie Dinkins,196,95,Voorhees College,1950,nao informado,nao informado,
+893,Jackie Dinkins,196,95,Voorhees College,1950,nao informado,
 894,Ken Durrett,201,86,La Salle University,1948,Pittsburgh,Pennsylvania
 895,Dick Gibbs,196,95,University of Texas at El Paso,1948,Ames,Iowa
 896,Clarence Glover,203,95,Western Kentucky University,1947,Horse Cave,Kentucky
-897,Jeff Halliburton,196,87,Drake University,1949,nao informado,nao informado,
-898,Fred Hilton,190,83,Grambling State University,1948,nao informado,nao informado,
-899,Jake Jones,190,81,Assumption College,1949,nao informado,nao informado,
+897,Jeff Halliburton,196,87,Drake University,1949,nao informado,
+898,Fred Hilton,190,83,Grambling State University,1948,nao informado,
+899,Jake Jones,190,81,Assumption College,1949,nao informado,
 900,Mo Layton,185,81,University of Southern California,1948,Newark,New Jersey
 901,Stan Love,206,97,University of Oregon,1949,Los Angeles,California
-902,Charlie Lowery,190,83,University of Puget Sound,1949,nao informado,nao informado,
-903,Jim Marsh,201,97,University of Southern California,1946,nao informado,nao informado,
+902,Charlie Lowery,190,83,University of Puget Sound,1949,nao informado,
+903,Jim Marsh,201,97,University of Southern California,1946,nao informado,
 904,Jim McDaniels,211,103,Western Kentucky University,1948,Scottsville,Kentucky
-905,Gil McGregor,203,108,Wake Forest University,1949,nao informado,nao informado,
+905,Gil McGregor,203,108,Wake Forest University,1949,nao informado,
 906,Kenny McIntosh,201,102,Eastern Michigan University,1949,Detroit,Michigan
 907,Cliff Meely,203,97,University of Colorado,1947,Rosedale,Mississippi
 908,Dean Meminger,183,79,Marquette University,1948,Walterboro,South Carolina
 909,John Mengelt,188,88,Auburn University,1949,Lacrosse,Wisconsin
-910,Barry Nelson,208,104,Duquesne University,1949,nao informado,nao informado,
+910,Barry Nelson,208,104,Duquesne University,1949,nao informado,
 911,Mike Newlin,193,90,University of Utah,1949,Portland,Oregon
 912,Willie Norwood,201,99,Alcorn State University,1947,Carrolton,Mississippi
 913,Steve Patterson,206,102,University of California - Los Angeles,1948,Riverside,California
-914,Tom Payne,218,108,University of Kentucky,1950,nao informado,nao informado,
+914,Tom Payne,218,108,University of Kentucky,1950,nao informado,
 915,Howard Porter,203,99,Villanova University,1948,Stuart,Florida
 916,Clifford Ray,206,104,University of Oklahoma,1949,Union,South Carolina
 917,Jackie Ridgle,193,88,University of California,1948,Altheimer,Arkansas
-918,Rich Rinaldi,190,88,Saint Peter's College,1949,nao informado,nao informado,
+918,Rich Rinaldi,190,88,Saint Peter's College,1949,nao informado,
 919,Curtis Rowe,201,102,University of California - Los Angeles,1949,Bessemer,Alabama
 920,Charlie Scott,196,79,University of North Carolina,1948,New York,New York
 921,Elmore Smith,213,113,Kentucky State University,1949,Macon,Georgia
 922,Randy Smith,190,81,State University of New York College at Buffalo,1948,Bellport,New York
-923,William Smith,213,99,Syracuse University,1949,nao informado,nao informado,
+923,William Smith,213,99,Syracuse University,1949,nao informado,
 924,Larry Steele,196,81,University of Kentucky,1949,Greencastle,Indiana
 925,George Trapp,203,92,California State University - Long Beach,1948,Detroit,Michigan
 926,Sidney Wicks,203,102,University of California - Los Angeles,1949,Los Angeles,California
 927,Nate Williams,196,97,Utah State University,1950,Columbia,Louisiana
 928,Isaiah Wilson,188,79,University of Baltimore,1948,Philadelphia,Pennsylvania
 929,Dave Wohl,188,83,University of Pennsylvania,1949,Flushing,New York
-930,Barry Yates,201,97,University of Maryland,1946,nao informado,nao informado,
-931,Charlie Yelverton,188,86,Fordham University,1948,nao informado,nao informado,
+930,Barry Yates,201,97,University of Maryland,1946,nao informado,
+931,Charlie Yelverton,188,86,Fordham University,1948,nao informado,
 932,Henry Bibby,185,83,University of California - Los Angeles,1949,Franklinton,North Carolina
 933,Freddie Boyd,188,81,Oregon State University,1950,Bakersfield,California
 934,Steve Bracey,185,79,University of Tulsa,1950,Brooklyn,New York
 935,John Brisker,196,95,University of Toledo,1947,Detroit,Michigan
 936,Roger Brown,196,92,University of Dayton,1942,Brooklyn,New York
 937,Corky Calhoun,201,95,University of Pennsylvania,1950,Waukegan,Illinois
-938,Bob Davis,201,97,Weber State University,1950,nao informado,nao informado,
+938,Bob Davis,201,97,Weber State University,1950,nao informado,
 939,Dwight Davis,203,99,University of Houston,1949,Houston,Texas
 940,Mickey Davis,190,83,Virginia Union University,1946,Brooklyn,New York
 941,Charles Dudley,188,81,University of Washington,1950,Harrisburg,Pennsylvania
 942,Scott English,198,92,University of Texas at El Paso,1950,Evanston,Illinois
 943,Chris Ford,196,86,Villanova University,1949,Atlantic City,New Jersey
-944,Harold Fox,188,79,Jacksonville University,1949,nao informado,nao informado,
+944,Harold Fox,188,79,Jacksonville University,1949,nao informado,
 945,Rowland Garrett,198,95,Florida State University,1950,Canton,Mississippi
 946,John Gianelli,208,99,University of the Pacific,1950,Stockton,California
 947,Travis Grant,201,97,Kentucky State University,1950,Clayton,Alabama
@@ -956,26 +956,26 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 954,Bob McAdoo*,206,95,University of North Carolina,1951,Greensboro,North Carolina
 955,Paul McCracken,193,81,California State University - Northridge,1950,New York,New York
 956,Eric McWilliams,203,90,California State University - Long Beach,1950,Denver,Colorado
-957,Mark Minor,198,97,Ohio State University,1950,nao informado,nao informado,
+957,Mark Minor,198,97,Ohio State University,1950,nao informado,
 958,Bob Nash,203,88,University of Hawaii,1950,Hartford,Connecticut
 959,Lloyd Neal,201,102,Tennessee State University,1950,Talbottom,Georgia
-960,Tom Patterson,198,99,Ouachita Baptist University,1948,nao informado,nao informado,
+960,Tom Patterson,198,99,Ouachita Baptist University,1948,nao informado,
 961,Kevin Porter,183,77,Saint Francis University,1950,Chicago,Illinois
 962,Jim Price,190,88,University of Louisville,1949,Russellville,Kentucky
 963,Mike Ratliff,208,104,University of Wisconsin-Eau Claire,1951,New Albany,Mississippi
 964,Tom Riker,208,102,University of South Carolina,1950,Rockville Centre,New York
 965,Ron Riley,203,88,University of Southern California,1950,Los Angeles,California
-966,Frank Russell,190,81,University of Detroit Mercy,1949,nao informado,nao informado,
+966,Frank Russell,190,81,University of Detroit Mercy,1949,nao informado,
 967,Frank Schade,185,77,University of Wisconsin-Eau Claire,1950,Wausau,Wisconsin
-968,Sam Sibert,201,97,Kentucky State University,1949,nao informado,nao informado,
+968,Sam Sibert,201,97,Kentucky State University,1949,nao informado,
 969,Bud Stallworth,196,86,University of Kansas,1950,Hartselle,Alabama
-970,Paul Stovall,193,97,Arizona State University,1948,nao informado,nao informado,
+970,Paul Stovall,193,97,Arizona State University,1948,nao informado,
 971,Chuck Terry,198,97,California State University - Long Beach,1950,Long Beach,California
-972,Justus Thigpen,185,72,Weber State University,1947,nao informado,nao informado,
+972,Justus Thigpen,185,72,Weber State University,1947,nao informado,
 973,John Tschogl,198,93,University of California - Santa Barbara,1950,Chula Vista,California
 974,Paul Westphal,193,88,University of Southern California,1950,Torrance,California
 975,Harthorne Wingo,198,95,Friendship Junior College,1947,Tryon,North Carolina
-976,Joby Wright,203,99,Indiana University,1950,nao informado,nao informado,
+976,Joby Wright,203,99,Indiana University,1950,nao informado,
 977,Mike Bantom,206,90,Saint Joseph's University,1951,Philadelphia,Pennsylvania
 978,Ron Behagen,206,83,University of Minnesota,1951,New York,New York
 979,Dennis Bell,196,83,Drake University,1951,Cincinnati,Ohio
@@ -983,36 +983,36 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 981,Allan Bristow,201,95,Virginia Polytechnic Institute and State University,1951,Richmond,Virginia
 982,John Brown,201,99,University of Missouri,1951,Frankfurt,Germany
 983,Larry Cannon,193,88,La Salle University,1947,Philadelphia,Pennsylvania
-984,Bill Chamberlain,198,85,University of North Carolina,1949,nao informado,nao informado,
+984,Bill Chamberlain,198,85,University of North Carolina,1949,nao informado,
 985,Ken Charles,190,81,Fordham University,1951,Trinidad and Tobago,
-986,E.C. Coleman,190,81,nao informado,1951,nao informado,nao informado,
+986,E.C. Coleman,190,81,nao informado,1951,nao informado,
 987,Doug Collins,198,81,Illinois State University,1951,Christopher,Illinois
 988,Mike D'Antoni,190,83,Marshall University,1951,Mullens,West Virginia
 989,Mel Davis,198,99,St. John's University,1950,New York,New York
 990,Derrek Dickey,201,98,University of Cincinnati,1951,Cincinnati,Ohio
 991,Ernie DiGregorio,183,81,Providence College,1951,North Providence,Rhode Island
 992,Steve Downing,203,102,Indiana University,1950,Indianapolis,Indiana
-993,Rod Freeman,201,102,Vanderbilt University,1950,nao informado,nao informado,
+993,Rod Freeman,201,102,Vanderbilt University,1950,nao informado,
 994,Bernie Fryer,190,83,Brigham Young University,1949,Bellingham,Washington
-995,Jim Garvin,201,90,Boston University,1950,nao informado,nao informado,
+995,Jim Garvin,201,90,Boston University,1950,nao informado,
 996,Phil Hankinson,203,88,University of Pennsylvania,1951,Augusta,Georgia
 997,Nate Hawthorne,193,86,Southern Illinois University,1950,Mt. Vernon,Illinois
 998,Tom Ingelsby,190,81,Villanova University,1951,Philadelphia,Pennsylvania
 999,Dwight Jones,208,95,University of Houston,1952,Houston,Texas
-1000,Ben Kelso,190,88,Central Michigan University,1949,nao informado,nao informado,
+1000,Ben Kelso,190,88,Central Michigan University,1949,nao informado,
 1001,Tom Kozelko,203,99,University of Toledo,1951,Traverse City,Michigan
 1002,Kevin Kunnert,213,104,University of Iowa,1951,Dubuque,Iowa
-1003,Mike Macaluso,196,95,Canisius College,1951,nao informado,nao informado,
-1004,Ted Manakas,188,81,Princeton University,1951,nao informado,nao informado,
-1005,Vester Marshall,201,90,University of Oklahoma,1948,nao informado,nao informado,
+1003,Mike Macaluso,196,95,Canisius College,1951,nao informado,
+1004,Ted Manakas,188,81,Princeton University,1951,nao informado,
+1005,Vester Marshall,201,90,University of Oklahoma,1948,nao informado,
 1006,Allie McGuire,188,81,St. John's University,1928,New York,New York
 1007,Larry McNeill,206,88,Marquette University,1951,Hoke,North Carolina
 1008,Gary Melchionni,188,83,Duke University,1951,Camden,New Jersey
 1009,Louie Nelson,190,86,University of Washington,1951,Los Angeles,California
 1010,Jim Owens,196,90,Arizona State University,1950,Los Angeles,California
 1011,Ed Ratleff,198,88,California State University - Long Beach,1950,Bellefontaine,Ohio
-1012,Joe Reaves,196,95,Bethel College,1950,nao informado,nao informado,
-1013,Mark Sibley,188,79,Northwestern University,1950,nao informado,nao informado,
+1012,Joe Reaves,196,95,Bethel College,1950,nao informado,
+1013,Mark Sibley,188,79,Northwestern University,1950,nao informado,
 1014,Bob Verga,185,86,Duke University,1945,Neptune,New Jersey
 1015,Kermit Washington,203,104,American University,1951,Washington,District of Columbia
 1016,Slick Watts,185,79,Xavier University of Louisiana,1951,Rolling Ford,Mississippi
@@ -1068,7 +1068,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1066,Owen Wells,201,90,University of Detroit Mercy,1950,Providence,Rhode Island
 1067,Jamaal Wilkes*,198,86,University of California - Los Angeles,1953,Berkeley,California
 1068,Earl Williams,201,104,Winston-Salem State University,1951,Levittown,Pennsylvania
-1069,Bobby Wilson,193,83,West Virginia State University,1926,nao informado,nao informado,
+1069,Bobby Wilson,193,83,West Virginia State University,1926,nao informado,
 1070,Brian Winters,193,83,University of South Carolina,1952,Rockaway,New York
 1071,Alvan Adams,206,95,University of Oklahoma,1954,Lawrence,Kansas
 1072,Jerome Anderson,196,88,West Virginia University,1953,Mullens,West Virginia
@@ -1084,7 +1084,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1082,Eric Fernsten,208,92,University of San Francisco,1953,Oakland,California
 1083,Larry Fogle,196,92,Canisius College,1953,Brooklyn,New York
 1084,Don Ford,206,97,University of California - Santa Barbara,1952,Santa Barbara,California
-1085,World B.,206,97,nao informado,1952,nao informado,nao informado,
+1085,World B.,206,97,nao informado,1952,nao informado,
 1086,Donnie Freeman,190,83,University of Illinois at Urbana-Champaign,1944,Madison,Illinois
 1087,Kevin Grevey,196,95,University of Kentucky,1953,Hamilton,Ohio
 1088,Bob Gross,198,90,California State University - Long Beach,1953,San Pedro,California
@@ -1096,7 +1096,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1094,Steve Jones,196,92,University of Oregon,1942,Alexandria,Louisiana
 1095,Rich Kelley,213,106,Stanford University,1953,San Mateo,California
 1096,Tom Kropp,190,92,University of Nebraska at Kearney,1953,Grand Island,Nebraska
-1097,C.J. Kupec,190,92,nao informado,1953,nao informado,nao informado,
+1097,C.J. Kupec,190,92,nao informado,1953,nao informado,
 1098,John Lambert,208,102,University of Southern California,1953,Berkeley,California
 1099,John Laskowski,198,83,Indiana University,1953,South Bend,Indiana
 1100,Greg Lee,190,86,University of California - Los Angeles,1951,Reseda,California
@@ -1134,7 +1134,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1132,Ticky Burden,188,83,University of Utah,1953,Haines City,Florida
 1133,Don Buse,193,86,University of Evansville,1950,Huntingburg,Indiana
 1134,Mack Calvin,183,74,University of Southern California,1947,Fort Worth,Texas
-1135,M.L. Carr,183,74,nao informado,1947,nao informado,nao informado,
+1135,M.L. Carr,183,74,nao informado,1947,nao informado,
 1136,Cornelius Cash,203,97,Bowling Green State University,1952,Macon,Mississippi
 1137,Norm Cook,203,95,University of Kansas,1955,Chicago,Illinois
 1138,Louie Dampier*,183,77,University of Kentucky,1944,Indianapolis,Indiana
@@ -1173,7 +1173,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1171,Caldwell Jones,211,98,Albany State University,1950,McGehee,Arkansas
 1172,Rich Jones,198,99,University of Memphis,1946,Memphis,Tennessee
 1173,Robin Jones,206,102,Saint Louis University,1954,St. Louis,Missouri
-1174,Wil Jones,190,83,Northwestern University,1936,nao informado,nao informado,
+1174,Wil Jones,190,83,Northwestern University,1936,nao informado,
 1175,George Karl,190,83,University of North Carolina,1952,Penn Hills,Pennsylvania
 1176,Goo Kennedy,196,92,Texas Christian University,1949,Charlotte,North Carolina
 1177,Larry Kenon,206,92,University of Memphis,1952,Birmingham,Alabama
@@ -1206,7 +1206,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1204,James Silas,185,81,Stephen F. Austin State University,1949,Tallulah,Louisiana
 1205,Ralph Simpson,196,90,Michigan State University,1949,Detroit,Michigan
 1206,Al Skinner,190,86,University of Massachusetts Amherst,1952,Mount Vernon,New York
-1207,Willie Smith,213,99,Syracuse University,1949,nao informado,nao informado,
+1207,Willie Smith,213,99,Syracuse University,1949,nao informado,
 1208,Keith Starr,198,86,University of Pittsburgh,1954,Sewickley,Pennsylvania
 1209,Earl Tatum,196,83,Marquette University,1953,Mount Vernon,New York
 1210,Brian Taylor,188,83,Princeton University,1951,Perth Amboy,New Jersey
@@ -1216,7 +1216,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1214,David Thompson*,193,88,North Carolina State University,1954,Shelby,North Carolina
 1215,Monte Towe,170,68,North Carolina State University,1953,Marion,Indiana
 1216,Dave Twardzik,185,79,Old Dominion University,1950,Hershey,Pennsylvania
-1217,Jan Van,185,79,nao informado,1950,nao informado,nao informado,
+1217,Jan Van,185,79,nao informado,1950,nao informado,
 1218,Andy Walker,193,86,Niagara University,1955,Long Island City,New York
 1219,Wally Walker,201,86,University of Virginia,1954,Millersville,Pennsylvania
 1220,Lloyd Walton,183,72,Marquette University,1953,Chicago,Illinois
@@ -1246,9 +1246,9 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1244,Brad Davis,190,81,University of Maryland,1955,Monaca,Pennsylvania
 1245,Walter Davis,203,92,Texas A&M University,1931,Beaumont,Texas
 1246,Jacky Dorsey,201,104,University of Georgia,1954,Atlanta,Georgia
-1247,T.R. Dunn,201,104,nao informado,1954,nao informado,nao informado,
+1247,T.R. Dunn,201,104,nao informado,1954,nao informado,
 1248,James Edwards,213,102,University of Washington,1955,Seattle,Washington
-1249,Bo Ellis,196,83,Niagara University,1936,nao informado,nao informado,
+1249,Bo Ellis,196,83,Niagara University,1936,nao informado,
 1250,Al Fleming,201,97,University of Arizona,1954,Chicago,Illinois
 1251,Bayard Forrest,208,106,Grand Canyon University,1954,San Jose,California
 1252,Mike Glenn,188,79,Southern Illinois University,1955,Rome,Georgia
@@ -1272,7 +1272,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1270,Larry Moffett,203,95,University of Nevada - Las Vegas,1954,Mobile,Alabama
 1271,Glenn Mosley,203,88,Seton Hall University,1955,Newark,New Jersey
 1272,Norm Nixon,188,77,Duquesne University,1955,Macon,Georgia
-1273,Eddie Owens,201,95,University of Nevada - Las Vegas,1953,nao informado,nao informado,
+1273,Eddie Owens,201,95,University of Nevada - Las Vegas,1953,nao informado,
 1274,Ben Poquette,206,106,Central Michigan University,1955,Ann Arbor,Michigan
 1275,Robert Reid,203,92,St. Mary's University,1955,Atlanta,Georgia
 1276,Anthony Roberts,196,83,Oral Roberts University,1955,Chattanooga,Tennessee
@@ -1323,7 +1323,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1321,Stan Pietkiewicz,196,90,Auburn University,1956,Huntsville,Alabama
 1322,Wayne Radford,190,92,Indiana University,1956,Indianapolis,Indiana
 1323,Marlon Redmond,198,85,University of San Francisco,1955,San Francisco,California
-1324,Micheal Ray,198,85,nao informado,1955,nao informado,nao informado,
+1324,Micheal Ray,198,85,nao informado,1955,nao informado,
 1325,Rick Robey,211,104,University of Kentucky,1956,Coral Gables,Florida
 1326,Jackie Robinson,198,95,University of Nevada - Las Vegas,1955,Los Angeles,California
 1327,John Rudd,201,104,McNeese State University,1955,DeRidder,Louisiana
@@ -1339,7 +1339,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1337,Freeman Williams,193,86,Portland State University,1956,Los Angeles,California
 1338,Rick Wilson,196,90,University of Louisville,1956,Louisville,Kentucky
 1339,James Bailey,206,99,Rutgers University,1957,Dublin,Georgia
-1340,Billy Ray,206,99,nao informado,1957,nao informado,nao informado,
+1340,Billy Ray,206,99,nao informado,1957,nao informado,
 1341,Larry Bird*,206,99,Indiana State University,1956,West Baden,Indiana
 1342,Lawrence Boston,203,102,University of Maryland,1956,Cleveland,Ohio
 1343,Dudley Bradley,198,88,University of North Carolina,1957,Baltimore,Maryland
@@ -1394,7 +1394,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1392,Norman Black,196,83,Saint Joseph's University,1957,Baltimore,Maryland
 1393,Dave Britton,193,81,Texas A&M University,1958,New York,New York
 1394,Michael Brooks,201,99,La Salle University,1958,Philadelphia,Pennsylvania
-1395,Lewis Brown,190,86,University of Wyoming,1919,nao informado,nao informado,
+1395,Lewis Brown,190,86,University of Wyoming,1919,nao informado,
 1396,Rickey Brown,208,97,Mississippi State University,1958,Madison County,Mississippi
 1397,Joe Barry,193,88,Georgia Institute of Technology,1969,Oakland,California
 1398,Butch Carter,196,81,Indiana University,1958,Springfield,Ohio
@@ -1531,7 +1531,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1529,Orlando Woolridge,206,97,University of Notre Dame,1959,Bernice,Louisiana
 1530,Rich Yonakor,206,99,University of North Carolina,1958,Euclid,Ohio
 1531,Dwight Anderson,190,83,University of Southern California,1960,Dayton,Ohio
-1532,J.J. Anderson,190,83,nao informado,1960,nao informado,nao informado,
+1532,J.J. Anderson,190,83,nao informado,1960,nao informado,
 1533,Richard Anderson,208,108,University of California - Santa Barbara,1960,San Pedro,California
 1534,John Bagley,183,83,Boston College,1960,Bridgeport,Connecticut
 1535,Dave Batton,208,108,University of Notre Dame,1956,Baltimore,Maryland
@@ -1574,7 +1574,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1572,Russ Schoene,208,95,University of Tennessee at Chattanooga,1960,Trenton,Illinois
 1573,Ed Sherod,188,77,Virginia Commonwealth University,1959,Richmond,Virginia
 1574,Jose Slaughter,196,92,University of Portland,1960,Los Angeles,California
-1575,Derek Smith,190,81,University of Utah,1920,nao informado,nao informado,
+1575,Derek Smith,190,81,University of Utah,1920,nao informado,
 1576,Brook Steppe,196,88,Georgia Institute of Technology,1959,Chapel Hill,North Carolina
 1577,Jeff Taylor,193,79,Texas Tech University,1960,Blytheville,Arkansas
 1578,Vince Taylor,196,81,Duke University,1960,Lexington,Kentucky
@@ -1698,7 +1698,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1696,Jeff Turner,206,104,Vanderbilt University,1962,Bangor,Maine
 1697,Melvin Turpin,211,108,University of Kentucky,1960,Lexington,Kentucky
 1698,Willie White,190,88,University of Tennessee at Chattanooga,1962,Memphis,Tennessee
-1699,Eddie Lee,190,88,nao informado,1962,nao informado,nao informado,
+1699,Eddie Lee,190,88,nao informado,1962,nao informado,
 1700,Dale Wilkinson,208,99,Idaho State University,1960,Pocatello,Idaho
 1701,Guy Williams,188,79,University of Southern California,1953,Mount Vernon,New York
 1702,Kevin Willis,188,79,St. John's University,1961,New York,New York
@@ -1722,14 +1722,14 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1720,Joe Dumars*,190,86,McNeese State University,1963,Shreveport,Louisiana
 1721,Patrick Ewing*,213,108,Georgetown University,1962,Kingston,Jamaica
 1722,Georgi Glouchkov,203,106,nao informado,1960,Triavna,Bulgaria
-1723,A.C. Green,203,106,nao informado,1960,nao informado,nao informado,
+1723,A.C. Green,203,106,nao informado,1960,nao informado,
 1724,Ken Green,203,97,University of Texas-Pan American,1959,Newman,Georgia
 1725,Kenny Green,203,97,University of Texas-Pan American,1959,Newman,Georgia
 1726,Claude Gregory,203,92,University of Wisconsin,1958,Washington,District of Columbia
 1727,Steve Harris,196,88,University of Tulsa,1963,Kansas City,Missouri
 1728,Jerome Henderson,211,104,University of New Mexico,1959,Los Angeles,California
 1729,Carl Henry,198,92,University of Kansas,1960,Hollis,Oklahoma
-1730,Alfredrick Hughes,198,92,nao informado,1960,nao informado,nao informado,
+1730,Alfredrick Hughes,198,92,nao informado,1960,nao informado,
 1731,Ken Johnson,203,108,Michigan State University,1962,Tuskegee,Alabama
 1732,Yvon Joseph,211,111,Georgia Institute of Technology,1957,Cap-Haitian,Haiti
 1733,Harold Keeling,193,83,Santa Clara University,1963,New Orleans,Louisiana
@@ -1901,7 +1901,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1899,Rex Chapman,193,83,University of Kentucky,1967,Bowling Green,Kentucky
 1900,Derrick Chievous,201,88,University of Missouri,1967,New York,New York
 1901,Mark Davis,198,88,Old Dominion University,1963,Chesapeake,Virginia
-1902,Vinny Del,198,88,nao informado,1963,nao informado,nao informado,
+1902,Vinny Del,198,88,nao informado,1963,nao informado,
 1903,Fennis Dembo,196,97,University of Wyoming,1966,Mobile,Alabama
 1904,Ledell Eackles,196,99,University of New Orleans,1966,Baton Rouge,Louisiana
 1905,Kevin Edwards,190,86,DePaul University,1965,Cleveland Heights,Ohio
@@ -1968,7 +1968,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 1966,David Wood,206,102,University of Nevada - Reno,1964,Spokane,Washington
 1967,Nick Anderson,198,92,University of Illinois at Urbana-Champaign,1968,Chicago,Illinois
 1968,Michael Ansley,201,102,University of Alabama,1967,Birmingham,Alabama
-1969,B.J. Armstrong,201,102,nao informado,1967,nao informado,nao informado,
+1969,B.J. Armstrong,201,102,nao informado,1967,nao informado,
 1970,Dana Barros,180,73,Boston College,1967,Boston,Massachusetts
 1971,Kenny Battle,198,95,University of Illinois at Urbana-Champaign,1964,Aurora,Illinois
 1972,Winston Bennett,201,95,University of Kentucky,1965,Louisville,Kentucky
@@ -2026,7 +2026,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2024,Kenny Payne,203,88,University of Louisville,1966,Laurel,Mississippi
 2025,Drazen Petrovic*,196,88,nao informado,1964,Sibenik,Croatia
 2026,Brian Quinnett,203,106,Washington State University,1966,Pullman,Washington
-2027,J.R. Reid,203,106,nao informado,1966,nao informado,nao informado,
+2027,J.R. Reid,203,106,nao informado,1966,nao informado,
 2028,Glen Rice,201,97,University of Michigan,1967,Jacksonville,Arkansas
 2029,Pooh Richardson,185,81,University of California - Los Angeles,1966,Philadelphia,Pennsylvania
 2030,Clifford Robinson,206,99,University of Southern California,1960,Oakland,California
@@ -2039,7 +2039,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2037,Michael Smith,208,102,Brigham Young University,1965,Rochester,New York
 2038,Jay Taylor,190,86,Eastern Illinois University,1967,Aurora,Illinois
 2039,Leonard Taylor,203,99,University of California,1966,Los Angeles,California
-2040,Henry Turner,188,88,University of Nebraska,1938,nao informado,nao informado,
+2040,Henry Turner,188,88,University of Nebraska,1938,nao informado,
 2041,Gary Voce,206,108,University of Notre Dame,1965,Jamaica,
 2042,Alexander Volkov,208,98,nao informado,1964,Omsk,Russia
 2043,Doug West,198,90,Villanova University,1967,Altoona,Pennsylvania
@@ -2067,7 +2067,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2065,Anthony Cook,206,92,University of Arizona,1967,Los Angeles,California
 2066,Tony Dawson,201,97,Florida State University,1967,Kinston,North Carolina
 2067,Mario Elie,196,95,American International College,1963,New York,New York
-2068,A.J. English,196,95,nao informado,1963,nao informado,nao informado,
+2068,A.J. English,196,95,nao informado,1963,nao informado,
 2069,Danny Ferry,208,104,Duke University,1966,Hyattsville,Maryland
 2070,Greg Foster,211,108,University of Texas at El Paso,1968,Oakland,California
 2071,Tate George,196,86,University of Connecticut,1968,Newark,New Jersey
@@ -2106,7 +2106,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2104,Dwayne Schintzius,216,117,University of Florida,1968,Brandon,Florida
 2105,Dennis Scott,203,103,Georgia Institute of Technology,1968,Hagerstown,Maryland
 2106,Lionel Simmons,201,95,La Salle University,1968,Philadelphia,Pennsylvania
-2107,Tony Smith,201,95,nao informado,1968,nao informado,nao informado,
+2107,Tony Smith,201,95,nao informado,1968,nao informado,
 2108,Felton Spencer,213,120,University of Louisville,1968,Louisville,Kentucky
 2109,Irving Thomas,203,102,Florida State University,1966,Brooklyn,New York
 2110,Andy Toolson,198,95,Brigham Young University,1966,Chicago,Illinois
@@ -2118,7 +2118,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2116,Trevor Wilson,201,95,University of California - Los Angeles,1968,Los Angeles,California
 2117,Kennard Winchester,196,95,Averett University,1966,Chestertown,Maryland
 2118,Howard Wright,190,83,Austin Peay State University,1947,Louisville,Kentucky
-2119,A.J. Wynder,190,83,nao informado,1947,nao informado,nao informado,
+2119,A.J. Wynder,190,83,nao informado,1947,nao informado,
 2120,Victor Alexander,206,120,Iowa State University,1969,Detroit,Michigan
 2121,Kenny Anderson,183,76,Georgia Institute of Technology,1970,Queens,New York
 2122,Greg Anthony,183,79,University of Nevada - Las Vegas,1967,Las Vegas,Nevada
@@ -2195,7 +2195,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2193,Lloyd Daniels,201,92,Mount San Antonio College,1967,Brooklyn,New York
 2194,Hubert Davis,196,83,University of North Carolina,1970,Winston-Salem,North Carolina
 2195,Todd Day,198,85,University of Arkansas,1970,Decatur,Illinois
-2196,Richard Dumas,190,77,Northeastern State University,1970,nao informado,nao informado,
+2196,Richard Dumas,190,77,Northeastern State University,1970,nao informado,
 2197,Pat Durham,201,95,Colorado State University,1967,Dallas,Texas
 2198,LaPhonso Ellis,203,108,University of Notre Dame,1970,East St. Louis,Illinois
 2199,Matt Geiger,213,110,Georgia Institute of Technology,1969,Salem,Massachusetts
@@ -2242,13 +2242,13 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2240,Robert Werdann,211,113,St. John's University,1970,Sunnyside,New York
 2241,Corey Williams,188,86,Oklahoma State University,1970,Twiggs,Georgia
 2242,Lorenzo Williams,206,90,Stetson University,1969,Ocala,Florida
-2243,Walt Williams,193,88,Indiana University,1923,nao informado,nao informado,
+2243,Walt Williams,193,88,Indiana University,1923,nao informado,
 2244,Randy Woods,178,83,La Salle University,1970,Philadelphia,Pennsylvania
 2245,Gary Alexander,201,108,University of South Florida,1969,Jacksonville,Florida
 2246,Vin Baker,211,105,University of Hartford,1971,Lake Wales,Florida
 2247,Corie Blount,206,108,University of Cincinnati,1969,Monrovia,California
 2248,Shawn Bradley,229,106,Brigham Young University,1972,Landstuhl,Germany
-2249,P.J. Brown,229,106,nao informado,1972,nao informado,nao informado,
+2249,P.J. Brown,229,106,nao informado,1972,nao informado,
 2250,Evers Burns,203,117,University of Maryland,1971,Baltimore,Maryland
 2251,Scott Burrell,201,98,University of Connecticut,1971,New Haven,Connecticut
 2252,Mitchell Butler,188,77,University of Memphis,1946,Memphis,Tennessee
@@ -2308,7 +2308,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2306,Bryon Russell,201,102,California State University - Long Beach,1970,San Bernardino,California
 2307,Kevin Thompson,211,117,North Carolina State University,1971,Winston-Salem,North Carolina
 2308,Keith Tower,211,113,University of Notre Dame,1970,Libby,Montana
-2309,Nick Van,211,113,nao informado,1970,nao informado,nao informado,
+2309,Nick Van,211,113,nao informado,1970,nao informado,
 2310,Rex Walters,193,86,University of Kansas,1970,Omaha,Nebraska
 2311,Chris Webber,206,111,University of Michigan,1973,Detroit,Michigan
 2312,Matt Wenstrom,216,113,University of North Carolina,1970,Minneapolis,Minnesota
@@ -2368,7 +2368,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2366,Zan Tabak,213,111,nao informado,1970,Split,Croatia
 2367,Brooks Thompson,193,87,Oklahoma State University,1970,Dallas,Texas
 2368,Anthony Tucker,203,99,Wake Forest University,1969,Washington,District of Columbia
-2369,B.J. Tyler,203,99,nao informado,1969,nao informado,nao informado,
+2369,B.J. Tyler,203,99,nao informado,1969,nao informado,
 2370,Fred Vinson,193,86,Georgia Institute of Technology,1971,Murfreesboro,North Carolina
 2371,Charlie Ward,188,86,Florida State University,1970,Thomasville,Georgia
 2372,Jamie Watson,201,86,University of South Carolina,1972,Elm City,North Carolina
@@ -2423,7 +2423,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2421,Howard Nathan,180,79,University of Louisiana at Monroe,1972,Peoria,Illinois
 2422,Ed O'Bannon,203,100,University of California - Los Angeles,1972,Los Angeles,California
 2423,Greg Ostertag,218,127,University of Kansas,1973,Dallas,Texas
-2424,Cherokee Parks,196,95,Idaho State University,1973,nao informado,nao informado,
+2424,Cherokee Parks,196,95,Idaho State University,1973,nao informado,
 2425,Theo Ratliff,208,102,University of Wyoming,1973,Demopolis,Alabama
 2426,Bryant Reeves,213,124,Oklahoma State University,1973,Fort Smith,Arkansas
 2427,Don Reid,203,113,Georgetown University,1973,Washington,District of Columbia
@@ -2573,12 +2573,12 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2571,Maurice Taylor,206,117,University of Michigan,1976,Detroit,Michigan
 2572,John Thomas,198,92,Marquette University,1948,Canton,Georgia
 2573,Tim Thomas,208,104,Villanova University,1977,Paterson,New Jersey
-2574,Keith Van,208,104,nao informado,1977,nao informado,nao informado,
+2574,Keith Van,208,104,nao informado,1977,nao informado,
 2575,Jacque Vaughn,185,86,University of Kansas,1975,Los Angeles,California
 2576,Eric Washington,193,86,University of Alabama,1974,Pearl,Mississippi
 2577,Bubba Wells,196,104,Austin Peay State University,1974,Russellville,Kentucky
 2578,DeJuan Wheat,183,74,University of Louisville,1973,Louisville,Kentucky
-2579,Alvin Williams,198,90,Drake University,1948,nao informado,nao informado,
+2579,Alvin Williams,198,90,Drake University,1948,nao informado,
 2580,Brandon Williams,198,97,Davidson College,1975,Collinston,Louisiana
 2581,Travis Williams,198,97,South Carolina State University,1969,Columbia,South Carolina
 2582,Peter Aluma,208,117,Liberty University,1973,Lagos,Nigeria
@@ -2587,7 +2587,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2585,Corey Benjamin,198,90,Oregon State University,1978,Compton,California
 2586,Mike Bibby,185,86,University of Arizona,1978,Cherry Hill,New Jersey
 2587,Earl Boykins,165,61,Eastern Michigan University,1976,Cleveland,Ohio
-2588,Gerald Brown,198,86,Wayne State University,1935,nao informado,nao informado,
+2588,Gerald Brown,198,86,Wayne State University,1935,nao informado,
 2589,Cory Carr,190,95,Texas Tech University,1975,Fordyce,Arkansas
 2590,Vince Carter,198,99,University of North Carolina,1977,Daytona Beach,Florida
 2591,Keon Clark,211,99,University of Nevada - Las Vegas,1975,Danville,Illinois
@@ -2601,7 +2601,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2599,Paul Grant,213,111,University of Wisconsin,1974,Pittsburgh,Pennsylvania
 2600,Matt Harpring,201,104,Georgia Institute of Technology,1976,Cincinnati,Ohio
 2601,Al Harrington,206,104,nao informado,1980,Orange,New Jersey
-2602,J.R. Henderson,206,104,nao informado,1980,nao informado,nao informado,
+2602,J.R. Henderson,206,104,nao informado,1980,nao informado,
 2603,Larry Hughes,196,83,Saint Louis University,1979,St. Louis,Missouri
 2604,Randell Jackson,188,86,University of California - Los Angeles,1962,Los Angeles,California
 2605,Sam Jacobson,193,97,University of Minnesota,1975,Cottage Grove,Minnesota
@@ -2656,7 +2656,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2654,Cal Bowdler,208,111,Old Dominion University,1977,Sharps,Virginia
 2655,Ryan Bowen,201,97,University of Iowa,1975,Fort Madison,Iowa
 2656,Ira Bowman,196,88,University of Pennsylvania,1973,Newark,New Jersey
-2657,A.J. Bramlett,196,88,nao informado,1973,nao informado,nao informado,
+2657,A.J. Bramlett,196,88,nao informado,1973,nao informado,
 2658,Elton Brand,203,124,Duke University,1979,Cortlandt Manor,New York
 2659,Greg Buckner,193,95,Clemson University,1976,Hopkinsville,Kentucky
 2660,Rodney Buford,196,85,Creighton University,1977,Milwaukee,Wisconsin
@@ -2705,7 +2705,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2703,Mirsad Turkcan,206,107,nao informado,1976,Novi Pazar,Serbia
 2704,Wayne Turner,188,86,University of Kentucky,1976,Boston,Massachusetts
 2705,Dedric Willoughby,190,81,Iowa State University,1974,New Orleans,Louisiana
-2706,Metta World,190,81,nao informado,1974,nao informado,nao informado,
+2706,Metta World,190,81,nao informado,1974,nao informado,
 2707,Tim Young,213,99,Stanford University,1976,Santa Cruz,California
 2708,Courtney Alexander,185,83,University of Virginia,1973,Waynesboro,Virginia
 2709,Dalibor Bagaric,216,115,nao informado,1980,Croatia,
@@ -2723,7 +2723,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2721,Ruben Garces,206,111,Providence College,1973,Colon,Panama
 2722,Eddie Gill,183,86,Weber State University,1978,Aurora,Colorado
 2723,Steve Goodrich,208,99,Princeton University,1976,Philadelphia,Pennsylvania
-2724,A.J. Guyton,208,99,nao informado,1976,nao informado,nao informado,
+2724,A.J. Guyton,208,99,nao informado,1976,nao informado,
 2725,Zendon Hamilton,211,113,St. John's University,1975,Floral Park,New York
 2726,Jason Hart,190,83,Syracuse University,1978,Los Angeles,California
 2727,Donnell Harvey,203,99,University of Florida,1980,Shellman,Georgia
@@ -2849,7 +2849,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2847,Mike Batiste,203,102,Arizona State University,1977,Long Beach,California
 2848,Lonny Baxter,203,117,University of Maryland,1979,Silver Spring,Maryland
 2849,Carlos Boozer,206,117,Duke University,1981,Aschaffenburg,Germany
-2850,J.R. Bremer,206,117,nao informado,1981,nao informado,nao informado,
+2850,J.R. Bremer,206,117,nao informado,1981,nao informado,
 2851,Devin Brown,185,72,Jacksonville University,1968,Jacksonville,Florida
 2852,Pat Burke,211,113,Auburn University,1973,Dublin,Ireland
 2853,Caron Butler,201,103,University of Connecticut,1980,Racine,Wisconsin
@@ -2898,7 +2898,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2896,Amar'e Stoudemire,208,111,nao informado,1982,Lake Wales,Florida
 2897,Cezary Trybanski,218,108,nao informado,1979,Warsaw,Poland
 2898,Nikoloz Tskitishvili,213,102,nao informado,1983,Tbilisi,Georgia
-2899,Dajuan Wagner,183,77,University of Texas at Austin,1922,nao informado,nao informado,
+2899,Dajuan Wagner,183,77,University of Texas at Austin,1922,nao informado,
 2900,Jiri Welsch,201,94,nao informado,1980,Pardubice,Czech Republic
 2901,Chris Wilcox,208,100,University of Maryland,1982,Raleigh,North Carolina
 2902,Mike Wilks,178,83,Rice University,1979,Milwaukee,Wisconsin
@@ -2930,7 +2930,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2928,Ndudi Ebi,206,90,nao informado,1984,London,United Kingdom
 2929,Francisco Elson,213,106,University of California,1976,Rotterdam,Netherlands
 2930,Desmond Ferguson,201,92,University of Detroit Mercy,1977,Lansing,Michigan
-2931,T.J. Ford,201,92,nao informado,1977,nao informado,nao informado,
+2931,T.J. Ford,201,92,nao informado,1977,nao informado,
 2932,Richie Frahm,196,95,Gonzaga University,1977,Battle Ground,Washington
 2933,Hiram Fuller,206,108,California State University - Fresno,1981,East St. Louis,Missouri
 2934,Reece Gaines,198,92,University of Louisville,1981,Madison,Wisconsin
@@ -2947,7 +2947,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2945,Britton Johnsen,208,95,University of Utah,1979,Salt Lake City,Utah
 2946,Linton Johnson,203,92,Tulane University,1980,Chicago,Illinois
 2947,Dahntay Jones,190,83,University of Houston,1976,Galveston,Texas
-2948,James Jones,190,81,Assumption College,1949,nao informado,nao informado,
+2948,James Jones,190,81,Assumption College,1949,nao informado,
 2949,Chris Kaman,213,120,Central Michigan University,1982,Wyoming,Michigan
 2950,Jason Kapono,203,96,University of California - Los Angeles,1981,Long Beach,California
 2951,Kyle Korver,201,96,Creighton University,1981,Lakewood,California
@@ -2957,7 +2957,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 2955,Darko Milicic,213,113,nao informado,1985,Novi Sad,Serbia
 2956,Travis Outlaw,206,95,nao informado,1984,Starkville,Mississippi
 2957,Zaza Pachulia,211,122,nao informado,1984,Tbilisi,Georgia
-2958,Sasha Pavlovic,211,122,nao informado,1984,nao informado,nao informado,
+2958,Sasha Pavlovic,211,122,nao informado,1984,nao informado,
 2959,Desmond Penigar,201,111,Utah State University,1981,Upland,California
 2960,Kirk Penney,196,99,University of Wisconsin,1980,Auckland,New Zealand
 2961,Kendrick Perkins,208,122,nao informado,1984,Nederland,Texas
@@ -3002,7 +3002,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3000,Dwight Howard,211,120,nao informado,1985,Atlanta,Georgia
 3001,Kris Humphries,206,106,University of Minnesota,1985,Minneapolis,Minnesota
 3002,Andre Iguodala,198,97,University of Arizona,1984,Springfield,Illinois
-3003,Didier Ilunga-Mbenga,198,97,nao informado,1984,nao informado,nao informado,
+3003,Didier Ilunga-Mbenga,198,97,nao informado,1984,nao informado,
 3004,Royal Ivey,190,90,University of Texas at Austin,1981,Harlem,New York
 3005,Al Jefferson,208,131,nao informado,1985,Monticello,Mississippi
 3006,Horace Jenkins,185,81,William Paterson University,1974,Elizabeth,New Jersey
@@ -3017,14 +3017,14 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3015,Andres Nocioni,201,102,nao informado,1979,Santa Fe,Argentina
 3016,Emeka Okafor,208,114,University of Connecticut,1982,Houston,Texas
 3017,Pavel Podkolzin,226,117,nao informado,1985,Novosibirsk,Russia
-3018,Peter John,226,117,nao informado,1985,nao informado,nao informado,
+3018,Peter John,226,117,nao informado,1985,nao informado,
 3019,Justin Reed,203,108,University of Mississippi,1982,Jackson,Mississippi
 3020,Jared Reiner,211,115,University of Iowa,1982,Tripp,South Dakota
 3021,Bernard Robinson,198,95,University of Michigan,1980,Washington,District of Columbia
 3022,Quinton Ross,198,88,Southern Methodist University,1981,Dallas,Texas
 3023,Ha Seung-Jin,221,138,nao informado,1985,Seoul,Republic of Korea
 3024,Donta Smith,188,86,University of Minnesota,1920,Minnesota,
-3025,J.R. Smith,188,86,nao informado,1920,nao informado,nao informado,
+3025,J.R. Smith,188,86,nao informado,1920,nao informado,
 3026,Josh Smith,213,106,University of Southern Colorado,1944,Columbus,Mississippi
 3027,Kirk Snyder,198,102,University of Nevada - Reno,1983,Los Angeles,California
 3028,Pape Sow,208,113,California State University - Fullerton,1981,Dakar,Senegal
@@ -3090,7 +3090,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3088,Sean May,206,120,University of North Carolina,1984,Chicago,Illinois
 3089,Rashad McCants,193,93,University of North Carolina,1984,Asheville,North Carolina
 3090,Aaron Miles,185,79,University of Kansas,1983,Portland,Oregon
-3091,C.J. Miles,185,79,nao informado,1983,nao informado,nao informado,
+3091,C.J. Miles,185,79,nao informado,1983,nao informado,
 3092,Sergei Monia,203,99,nao informado,1983,Saratov,Russia
 3093,Boniface N'Dong,213,89,nao informado,1977,Dakar,Senegal
 3094,Fabricio Oberto,208,111,nao informado,1975,Las Varillas,Argentina
@@ -3133,7 +3133,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3131,James Augustine,208,106,University of Illinois at Urbana-Champaign,1984,Midlothian,Illinois
 3132,Kelenna Azubuike,196,99,University of Kentucky,1983,London,United Kingdom
 3133,Renaldo Balkman,203,94,University of South Carolina,1984,Staten Island,New York
-3134,J.J. Barea,203,94,nao informado,1984,nao informado,nao informado,
+3134,J.J. Barea,203,94,nao informado,1984,nao informado,
 3135,Andrea Bargnani,213,111,nao informado,1985,Rome,Italy
 3136,Will Blalock,183,92,Iowa State University,1983,Boston,Massachusetts
 3137,Josh Boone,208,107,University of Connecticut,1984,Mount Airy,Maryland
@@ -3183,21 +3183,21 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3181,Roger Powell,198,106,University of Illinois at Urbana-Champaign,1983,Joliet,Illinois
 3182,Chris Quinn,188,83,University of Notre Dame,1983,New Orleans,Louisiana
 3183,Allan Ray,188,86,Villanova University,1984,Bronx,New York
-3184,J.J. Redick,188,86,nao informado,1984,nao informado,nao informado,
+3184,J.J. Redick,188,86,nao informado,1984,nao informado,
 3185,Jeremy Richardson,198,83,Delta State University,1984,Allentown,Pennsylvania
 3186,Sergio Rodriguez,190,79,nao informado,1986,Tenerife,Spain
 3187,Rajon Rondo,185,84,University of Kentucky,1986,Louisville,Kentucky
 3188,Brandon Roy,198,97,University of Washington,1984,Seattle,Washington
 3189,Thabo Sefolosha,201,99,nao informado,1984,Vevey,Switzerland
-3190,Mouhamed Sene,201,99,nao informado,1984,nao informado,nao informado,
+3190,Mouhamed Sene,201,99,nao informado,1984,nao informado,
 3191,Cedric Simmons,206,106,North Carolina State University,1986,Shallotte,North Carolina
 3192,Uros Slokar,208,107,nao informado,1983,Ljubljana,Slovenia
 3193,Craig Smith,201,113,Boston College,1983,Inglewood,California
 3194,Steven Smith,201,90,Michigan State University,1969,Highland Park,Michigan
 3195,Vassilis Spanoulis,193,88,nao informado,1982,Larissa,Greece
 3196,Tyrus Thomas,206,97,Louisiana State University,1986,Baton Rouge,Louisiana
-3197,P.J. Tucker,206,97,nao informado,1986,nao informado,nao informado,
-3198,Marcus Vinicius,206,97,nao informado,1986,nao informado,nao informado,
+3197,P.J. Tucker,206,97,nao informado,1986,nao informado,
+3198,Marcus Vinicius,206,97,nao informado,1986,nao informado,
 3199,James White,206,131,Georgetown University,1976,St. Louis,Missouri
 3200,Justin Williams,208,102,University of Wyoming,1984,Chicago,Illinois
 3201,Marcus Williams,185,89,University of Alabama,1982,Jackson,Mississippi
@@ -3225,7 +3225,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3223,Thomas Gardner,196,102,University of Missouri,1985,Portland,Oregon
 3224,Marcin Gortat,211,108,nao informado,1984,Lodz,Poland
 3225,Aaron Gray,213,122,University of Pittsburgh,1984,Tarzana,California
-3226,Jeff Green,196,88,University of Maryland,1941,nao informado,nao informado,
+3226,Jeff Green,196,88,University of Maryland,1941,nao informado,
 3227,Taurean Green,183,80,University of Florida,1986,Fort Lauderdale,Florida
 3228,Mike Harris,198,108,Rice University,1983,Hillsboro,Texas
 3229,Spencer Hawes,216,111,University of Washington,1988,Seattle,Washington
@@ -3240,7 +3240,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3238,Dominic McGuire,206,99,California State University - Fresno,1985,San Diego,California
 3239,Josh McRoberts,208,108,Duke University,1987,Indianapolis,Indiana
 3240,Jamario Moon,203,92,Meridian Community College,1980,Goodwater,Alabama
-3241,Juan Carlos,203,92,nao informado,1980,nao informado,nao informado,
+3241,Juan Carlos,203,92,nao informado,1980,nao informado,
 3242,Demetris Nichols,203,97,Syracuse University,1984,Boston,Massachusetts
 3243,Joakim Noah,211,104,University of Florida,1985,New York,New York
 3244,Oleksiy Pecherov,213,105,nao informado,1985,Donetsk,Ukraine
@@ -3253,13 +3253,13 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3251,Ramon Sessions,190,86,University of Nevada - Reno,1986,Myrtle Beach,South Carolina
 3252,Courtney Sims,208,111,University of Michigan,1983,Roslindale,Massachusetts
 3253,Jason Smith,211,113,Louisiana State University,1977,Atlanta,Georgia
-3254,D.J. Strawberry,211,113,nao informado,1977,nao informado,nao informado,
+3254,D.J. Strawberry,211,113,nao informado,1977,nao informado,
 3255,Rodney Stuckey,196,95,Eastern Washington University,1986,Seattle,Washington
 3256,Al Thornton,203,99,Florida State University,1983,Perry,Georgia
 3257,Alando Tucker,203,86,Oklahoma Baptist University,1943,Dayton,Ohio
 3258,Darius Washington,188,88,University of Memphis,1985,Winter Park,Florida
 3259,Darryl Watkins,211,117,Syracuse University,1984,Paterson,New Jersey
-3260,C.J. Watson,211,117,nao informado,1984,nao informado,nao informado,
+3260,C.J. Watson,211,117,nao informado,1984,nao informado,
 3261,Mario West,208,104,Old Dominion University,1960,Petersburg,Virginia
 3262,Sean Williams,208,106,Boston College,1986,Houston,Texas
 3263,Brandan Wright,211,102,University of California - Los Angeles,1962,Hollywood,California
@@ -3270,7 +3270,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3268,Joe Alexander,203,104,West Virginia University,1986,Kaohsiung,Taiwan
 3269,Ryan Anderson,208,108,University of California,1988,Sacramento,California
 3270,Darrell Arthur,206,106,University of Kansas,1988,Dallas,Texas
-3271,D.J. Augustin,206,106,nao informado,1988,nao informado,nao informado,
+3271,D.J. Augustin,206,106,nao informado,1988,nao informado,
 3272,Nicolas Batum,203,90,nao informado,1988,Lisieux,France
 3273,Jerryd Bayless,190,90,University of Arizona,1988,Phoenix,Arizona
 3274,Michael Beasley,206,106,Kansas State University,1989,Frederick,Maryland
@@ -3283,13 +3283,13 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3281,Rudy Fernandez,198,83,nao informado,1985,Palma de Mallorca,Spain
 3282,Danilo Gallinari,208,102,nao informado,1988,Sant'Angelo Lodigiano,Italy
 3283,Marc Gasol,216,115,nao informado,1985,Barcelona,Spain
-3284,J.R. Giddens,216,115,nao informado,1985,nao informado,nao informado,
+3284,J.R. Giddens,216,115,nao informado,1985,nao informado,
 3285,Eric Gordon,193,97,Indiana University,1988,Indianapolis,Indiana
 3286,Donte Greene,211,102,Syracuse University,1988,Munich,Germany
 3287,Hamed Haddadi,218,115,nao informado,1985,Ahvaz,Islamic Republic of Iran
 3288,Malik Hairston,198,99,University of Oregon,1987,Detroit,Michigan
 3289,Roy Hibbert,218,122,Georgetown University,1986,Queens,New York
-3290,J.J. Hickson,218,122,nao informado,1986,nao informado,nao informado,
+3290,J.J. Hickson,218,122,nao informado,1986,nao informado,
 3291,George Hill,190,85,Indiana University-Purdue University Indianapolis,1986,Indianapolis,Indiana
 3292,Steven Hill,213,112,University of Arkansas,1985,Chanute,Kansas
 3293,Othello Hunter,203,102,Ohio State University,1986,Winston-Salem,North Carolina
@@ -3305,8 +3305,8 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3303,Robin Lopez,213,115,Stanford University,1988,North Hollywood,California
 3304,Kevin Love,208,113,University of California - Los Angeles,1988,Santa Monica,California
 3305,Cartier Martin,201,99,Kansas State University,1984,Crockett,Texas
-3306,O.J. Mayo,201,99,nao informado,1984,nao informado,nao informado,
-3307,Luc Mbah,201,99,nao informado,1984,nao informado,nao informado,
+3306,O.J. Mayo,201,99,nao informado,1984,nao informado,
+3307,Luc Mbah,201,99,nao informado,1984,nao informado,
 3308,JaVale McGee,213,122,University of Nevada - Reno,1988,Flint,Michigan
 3309,Anthony Morrow,196,95,Georgia Institute of Technology,1985,Charlotte,North Carolina
 3310,DeMarcus Nelson,193,90,Duke University,1985,Oakland,California
@@ -3321,16 +3321,16 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3319,Jason Thompson,185,83,University of South Carolina,1946,New York,New York
 3320,Anthony Tolliver,203,108,Creighton University,1985,Springfield,Missouri
 3321,Roko Ukic,196,83,nao informado,1984,Split,Croatia
-3322,Henry Walker,196,83,nao informado,1984,nao informado,nao informado,
+3322,Henry Walker,196,83,nao informado,1984,nao informado,
 3323,Kyle Weaver,198,91,Washington State University,1986,Janesville,Wisconsin
 3324,Sonny Weems,198,92,University of Arkansas,1986,West Memphis,Arkansas
 3325,Russell Westbrook,190,90,University of California - Los Angeles,1988,Long Beach,California
-3326,D.J. White,190,90,nao informado,1988,nao informado,nao informado,
+3326,D.J. White,190,90,nao informado,1988,nao informado,
 3327,Jawad Williams,206,108,St. John's University,1968,Ritter,South Carolina
 3328,Sun Yue,206,92,nao informado,1985,Hebei,China
 3329,David Andersen,208,104,Augsburg College,1943,Minneapolis,Minnesota
 3330,Antonio Anderson,188,83,Canisius College,1945,Buffalo,New York
-3331,Jeff Ayres,188,83,nao informado,1945,nao informado,nao informado,
+3331,Jeff Ayres,188,83,nao informado,1945,nao informado,
 3332,Rodrigue Beaubois,183,77,nao informado,1988,Pointe-a-Pitre,Guadeloupe
 3333,DeJuan Blair,201,122,University of Pittsburgh,1989,Pittsburgh,Pennsylvania
 3334,Jon Brockman,201,115,University of Washington,1987,Snohomish,Washington
@@ -3375,7 +3375,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3373,Jodie Meeks,193,95,University of Kentucky,1987,Norcross,Georgia
 3374,Patty Mills,203,111,Louisiana Tech University,1985,Monroe,Louisiana
 3375,Byron Mullens,213,124,Ohio State University,1989,Canal Winchester,Ohio
-3376,A.J. Price,213,124,nao informado,1989,nao informado,nao informado,
+3376,A.J. Price,213,124,nao informado,1989,nao informado,
 3377,DaJuan Summers,203,104,Georgetown University,1988,Baltimore,Maryland
 3378,Jermaine Taylor,193,79,Texas Tech University,1960,Blytheville,Arkansas
 3379,Jeff Teague,188,84,Wake Forest University,1988,Indianapolis,Indiana
@@ -3487,7 +3487,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3485,Jerome Jordan,213,114,University of Tulsa,1986,Kingston,Jamaica
 3486,Cory Joseph,190,87,University of Texas at Austin,1991,Toronto,Canada
 3487,Enes Kanter,211,111,nao informado,1992,Zurich,Switzerland
-3488,D.J. Kennedy,211,111,nao informado,1992,nao informado,nao informado,
+3488,D.J. Kennedy,211,111,nao informado,1992,nao informado,
 3489,Brandon Knight,178,78,Stanford University,1975,Livingston,New Jersey
 3490,Malcolm Lee,196,90,University of California - Los Angeles,1990,Riverside,California
 3491,Kawhi Leonard,201,104,San Diego State University,1991,Los Angeles,California
@@ -3496,10 +3496,10 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3494,DeAndre Liggins,198,94,University of Kentucky,1988,Chicago,Illinois
 3495,Shelvin Mack,190,92,Butler University,1990,Lexington,Kentucky
 3496,Vernon Macklin,208,102,University of Florida,1986,Portsmouth,Virginia
-3497,E'Twaun Moore,208,102,nao informado,1986,nao informado,nao informado,
+3497,E'Twaun Moore,208,102,nao informado,1986,nao informado,
 3498,Darius Morris,193,86,University of Michigan,1991,Los Angeles,California
-3499,Marcus Morris,188,88,Northwestern University,1925,nao informado,nao informado,
-3500,Markieff Morris,188,88,Northwestern University,1925,nao informado,nao informado,
+3499,Marcus Morris,188,88,Northwestern University,1925,nao informado,
+3500,Markieff Morris,188,88,Northwestern University,1925,nao informado,
 3501,Daniel Orton,208,115,University of Kentucky,1990,Oklahoma City,Oklahoma
 3502,Jeremy Pargo,188,99,Gonzaga University,1986,Chicago,Illinois
 3503,Chandler Parsons,208,104,University of Florida,1988,Casselberry,Florida
@@ -3532,7 +3532,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3530,Chris Wright,203,102,University of Dayton,1988,Trotwood,Ohio
 3531,Quincy Acy,201,108,Baylor University,1990,Tyler,Texas
 3532,Josh Akognon,180,83,California State University - Fullerton,1986,Greenbrae,California
-3533,Harrison Barnes,190,92,Northeastern University,1945,nao informado,nao informado,
+3533,Harrison Barnes,190,92,Northeastern University,1945,nao informado,
 3534,Will Barton,198,79,University of Memphis,1991,Baltimore,Maryland
 3535,Aron Baynes,208,117,Washington State University,1986,Gisborne,New Zealand
 3536,Kent Bazemore,196,91,Old Dominion University,1989,Kelford,North Carolina
@@ -3543,13 +3543,13 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3541,Jae Crowder,198,106,Marquette University,1990,Villa Rica,Georgia
 3542,Jared Cunningham,193,88,Oregon State University,1991,Oakland,California
 3543,Anthony Davis,206,97,University of Texas at El Paso,1968,Oakland,California
-3544,Nando De,206,97,nao informado,1968,nao informado,nao informado,
+3544,Nando De,206,97,nao informado,1968,nao informado,
 3545,Andre Drummond,211,126,University of Connecticut,1993,Mount Vernon,New York
 3546,Kim English,198,90,University of Missouri,1988,Baltimore,Maryland
 3547,Festus Ezeli,211,115,Vanderbilt University,1989,Benin City,Nigeria
 3548,Evan Fournier,201,92,nao informado,1992,Saint-Maurice,France
 3549,Joel Freeland,208,113,nao informado,1987,Farnham,United Kingdom
-3550,Diante Garrett,190,83,Southern Illinois University,1947,nao informado,nao informado,
+3550,Diante Garrett,190,83,Southern Illinois University,1947,nao informado,
 3551,Draymond Green,201,104,Michigan State University,1990,Saginaw,Michigan
 3552,Ben Hansbrough,190,92,University of Notre Dame,1987,Poplar Bluff,Missouri
 3553,Maurice Harkless,206,97,St. John's University,1993,Queens,New York
@@ -3650,7 +3650,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3648,Ricky Ledo,201,88,nao informado,1992,Providence,Rhode Island
 3649,Alex Len,216,117,University of Maryland,1993,Antratsit,Ukraine
 3650,Ray McCallum,190,86,University of Detroit Mercy,1991,Madison,Wisconsin
-3651,C.J. McCollum,190,86,nao informado,1991,nao informado,nao informado,
+3651,C.J. McCollum,190,86,nao informado,1991,nao informado,
 3652,Ben McLemore,196,88,University of Kansas,1993,St. Louis,Missouri
 3653,Gal Mekel,190,86,Wichita State University,1988,Petah Tikva,Israel
 3654,Tony Mitchell,201,92,Purdue University,1966,Toledo,Ohio
@@ -3672,7 +3672,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3670,Peyton Siva,183,83,University of Louisville,1990,Seattle,Washington
 3671,Tony Snell,201,90,University of New Mexico,1991,Riverside,California
 3672,James Southerland,203,97,Syracuse University,1990,Queens,New York
-3673,D.J. Stephens,203,97,nao informado,1990,nao informado,nao informado,
+3673,D.J. Stephens,203,97,nao informado,1990,nao informado,
 3674,Adonis Thomas,201,90,University of Memphis,1993,Memphis,Tennessee
 3675,Hollis Thompson,203,93,Georgetown University,1991,Pasadena,California
 3676,Casper Ware,178,79,California State University - Long Beach,1990,Cerritos,California
@@ -3691,7 +3691,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3689,Jabari Brown,193,97,University of Missouri,1992,Oakland,California
 3690,Markel Brown,190,83,Murray State University,1974,West Memphis,Arkansas
 3691,Bruno Caboclo,206,98,nao informado,1995,Osasco,Brazil
-3692,Clint Capela,206,98,nao informado,1995,nao informado,nao informado,
+3692,Clint Capela,206,98,nao informado,1995,nao informado,
 3693,Will Cherry,183,83,University of Montana,1991,Oakland,California
 3694,Patrick Christopher,196,94,University of California,1988,Compton,California
 3695,Jordan Clarkson,196,87,University of Missouri,1992,Tampa,Florida
@@ -3711,7 +3711,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3709,Jerami Grant,203,95,Syracuse University,1994,Portland,Oregon
 3710,Erick Green,193,83,Virginia Polytechnic Institute and State University,1991,Inglewood,California
 3711,JaMychal Green,206,102,University of Alabama,1990,Montgomery,Alabama
-3712,P.J. Hairston,206,102,nao informado,1990,nao informado,nao informado,
+3712,P.J. Hairston,206,102,nao informado,1990,nao informado,
 3713,Gary Harris,193,95,Michigan State University,1994,Fishers,Indiana
 3714,Joe Harris,198,99,University of Virginia,1991,Chelan,Washington
 3715,Rodney Hood,203,93,Duke University,1992,Meridian,Mississippi
@@ -3726,8 +3726,8 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3724,Zach LaVine,196,85,University of California - Los Angeles,1995,Renton,Washington
 3725,Kalin Lucas,185,88,Michigan State University,1989,Sterling Heights,Michigan
 3726,Devyn Marble,198,90,University of Iowa,1992,Southfield,Michigan
-3727,James Michael,198,90,nao informado,1992,nao informado,nao informado,
-3728,K.J. McDaniels,198,90,nao informado,1992,nao informado,nao informado,
+3727,James Michael,198,90,nao informado,1992,nao informado,
+3728,K.J. McDaniels,198,90,nao informado,1992,nao informado,
 3729,Doug McDermott,203,102,Creighton University,1992,Grand Forks,North Dakota
 3730,Mitch McGary,208,115,University of Michigan,1992,Chesterton,Indiana
 3731,Jerel McNeal,190,90,Marquette University,1987,Chicago,Illinois
@@ -3753,12 +3753,12 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3751,David Stockton,180,74,Gonzaga University,1991,Spokane,Washington
 3752,Jarnell Stokes,206,119,University of Tennessee,1994,Memphis,Tennessee
 3753,Noah Vonleh,208,108,Indiana University,1995,Haverhill,Massachusetts
-3754,T.J. Warren,208,108,nao informado,1995,nao informado,nao informado,
+3754,T.J. Warren,208,108,nao informado,1995,nao informado,
 3755,David Wear,208,104,University of California - Los Angeles,1990,Long Beach,California
 3756,Travis Wear,208,104,University of California - Los Angeles,1990,Long Beach,California
 3757,Shayne Whittington,211,113,Western Michigan University,1991,Paw Paw,Michigan
 3758,Andrew Wiggins,203,90,University of Kansas,1995,Toronto,Canada
-3759,C.J. Wilcox,203,90,nao informado,1995,nao informado,nao informado,
+3759,C.J. Wilcox,203,90,nao informado,1995,nao informado,
 3760,James Young,198,97,University of Kentucky,1995,Flint,Michigan
 3761,Cliff Alexander,203,111,University of Kansas,1995,Chicago,Illinois
 3762,Justin Anderson,198,103,University of Virginia,1993,Montross,Virginia
@@ -3786,7 +3786,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3784,Richaun Holmes,208,111,Bowling Green State University,1993,Lockport,Illinois
 3785,Marcelo Huertas,190,90,nao informado,1983,Sao Paulo,Brazil
 3786,Josh Huestis,201,104,Stanford University,1991,Webster,Texas
-3787,R.J. Hunter,201,104,nao informado,1991,nao informado,nao informado,
+3787,R.J. Hunter,201,104,nao informado,1991,nao informado,
 3788,Damien Inglis,203,111,nao informado,1995,Cayenne,French Guiana
 3789,Stanley Johnson,203,99,Murray State University,1944,Clairton,Pennsylvania
 3790,Nikola Jokic,208,113,nao informado,1995,Sombor,Serbia
@@ -3797,16 +3797,16 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3795,Trey Lyles,208,106,University of Kentucky,1995,Saskatoon,Canada
 3796,Boban Marjanovic,221,131,nao informado,1988,Zajecar,Serbia
 3797,Jarell Martin,208,108,Louisiana State University,1994,Baton Rouge,Louisiana
-3798,T.J. McConnell,208,108,nao informado,1994,nao informado,nao informado,
+3798,T.J. McConnell,208,108,nao informado,1994,nao informado,
 3799,Chris McCullough,211,90,Syracuse University,1995,Bronx,New York
 3800,Jordan McRae,198,83,University of Tennessee,1991,Savannah,Georgia
 3801,Salah Mejri,216,111,nao informado,1986,Jendouba,Tunisia
 3802,Jordan Mickey,203,106,Louisiana State University,1994,Dallas,Texas
 3803,Luis Montero,201,83,Westchester CC,1993,Santo Domingo,Dominican Republic
 3804,Emmanuel Mudiay,196,90,nao informado,1996,Kinshasa,Democratic Republic of the Congo
-3805,Xavier Munford,196,90,nao informado,1996,nao informado,nao informado,
+3805,Xavier Munford,196,90,nao informado,1996,nao informado,
 3806,Raul Neto,185,81,nao informado,1992,Belo Horizonte,Brazil
-3807,J.J. O'Brien,185,81,nao informado,1992,nao informado,nao informado,
+3807,J.J. O'Brien,185,81,nao informado,1992,nao informado,
 3808,Jahlil Okafor,211,124,Duke University,1995,Chicago,Illinois
 3809,Kelly Oubre,201,92,University of Kansas,1995,New Orleans,Louisiana
 3810,Lamar Patterson,196,102,University of Pittsburgh,1991,Lancaster,Pennsylvania
@@ -3818,7 +3818,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3816,Willie Reed,206,106,Grambling State University,1942,Hico,Louisiana
 3817,Josh Richardson,198,90,University of Tennessee,1993,Edmond,Oklahoma
 3818,Terry Rozier,188,86,University of Louisville,1994,Youngstown,Ohio
-3819,D'Angelo Russell,188,86,nao informado,1994,nao informado,nao informado,
+3819,D'Angelo Russell,188,86,nao informado,1994,nao informado,
 3820,Jonathon Simmons,185,83,New York University,1924,Birmingham,Alabama
 3821,Alex Stepheson,208,122,University of Southern California,1987,Los Angeles,California
 3822,Walter Tavares,221,117,nao informado,1992,Maio,Cape Verde
@@ -3827,7 +3827,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3825,Myles Turner,211,110,University of Texas at Austin,1996,Bedford,Texas
 3826,Rashad Vaughn,198,91,University of Nevada - Las Vegas,1996,Minneapolis,Minnesota
 3827,Briante Weber,188,74,Virginia Commonwealth University,1992,Chesapeake,Virginia
-3828,Alan Williams,198,90,Drake University,1948,nao informado,nao informado,
+3828,Alan Williams,198,90,Drake University,1948,nao informado,
 3829,Justise Winslow,201,102,Duke University,1996,Houston,Texas
 3830,Christian Wood,211,99,University of Nevada - Las Vegas,1995,Long Beach,California
 3831,Delon Wright,196,83,University of Utah,1992,Los Angeles,California
@@ -3862,7 +3862,7 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3860,Marcus Georges-Hunt,196,97,Georgia Institute of Technology,1994,Miami,Florida
 3861,Jonathan Gibson,188,83,New Mexico State University,1987,West Covina,California
 3862,Treveon Graham,198,99,Virginia Commonwealth University,1993,Washington,District of Columbia
-3863,A.J. Hammons,198,99,nao informado,1993,nao informado,nao informado,
+3863,A.J. Hammons,198,99,nao informado,1993,nao informado,
 3864,Andrew Harrison,198,96,University of Kentucky,1994,San Antonio,Texas
 3865,Juan Hernangomez,206,104,nao informado,1995,Madrid,Spain
 3866,Willy Hernangomez,211,108,nao informado,1994,Madrid,Spain
@@ -3906,14 +3906,14 @@ id,Player,height,weight,collage,born,birth_city,birth_state
 3904,Wayne Selden,196,104,University of Kansas,1994,Roxbury,Massachusetts
 3905,Pascal Siakam,206,104,New Mexico State University,1994,Douala,Cameroon
 3906,Diamond Stone,211,115,University of Maryland,1997,Milwaukee,Wisconsin
-3907,Edy Tavares,211,115,nao informado,1997,nao informado,nao informado,
+3907,Edy Tavares,211,115,nao informado,1997,nao informado,
 3908,Isaiah Taylor,190,77,University of Texas at Austin,1994,Hayward,California
 3909,Mike Tobey,213,117,University of Virginia,1994,Monroe,New York
 3910,Tyler Ulis,178,68,University of Kentucky,1996,Detroit,Michigan
 3911,Jarrod Uthoff,206,100,University of Iowa,1993,Cedar Rapids,Iowa
 3912,Denzel Valentine,198,96,Michigan State University,1993,Lansing,Michigan
 3913,Fred VanVleet,183,88,Wichita State University,1994,Rockford,Illinois
-3914,Taurean Waller-Prince,183,88,nao informado,1994,nao informado,nao informado,
+3914,Taurean Waller-Prince,183,88,nao informado,1994,nao informado,
 3915,Okaro White,203,92,Florida State University,1992,Clearwater,Florida
 3916,Isaiah Whitehead,193,96,Seton Hall University,1995,Brooklyn,New York
 3917,Troy Williams,198,97,South Carolina State University,1969,Columbia,South Carolina
