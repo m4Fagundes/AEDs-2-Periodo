@@ -1,3 +1,4 @@
+
 //---------------------------------------------------------------------------------------------------- //
 // Imports
 import java.util.Scanner;
@@ -12,7 +13,7 @@ import java.util.ArrayList;
 public class Player {
 
     // Global variables
-    public static final String FILE_PATH = "players.csv";
+    public static final String FILE_PATH = "/tmp/players.csv";
     public static ArrayList<Player> allPlayers = new ArrayList<Player>();
 
     // -------------------------- //
@@ -41,7 +42,8 @@ public class Player {
     }
 
     // Constructor
-    public Player(int id, String name, int height, int weight, String college, int yearOfBirth, String birthCity, String birthState) {
+    public Player(int id, String name, int height, int weight, String college, int yearOfBirth, String birthCity,
+            String birthState) {
 
         this.id = id;
         this.name = name;
@@ -54,33 +56,83 @@ public class Player {
     }
 
     // Gets
-    public int getId() { return this.id; }
-    public String getName() { return this.name; }
-    public int getHeight() { return this.height; }
-    public int getWeight() { return this.weight; }
-    public String getCollege() { return this.college; }
-    public int getYearOfBirth() { return this.yearOfBirth; }
-    public String getBirthCity() { return this.birthCity; }
-    public String getBirthState() { return this.birthState; }
+    public int getId() {
+        return this.id;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
+    public int getHeight() {
+        return this.height;
+    }
+
+    public int getWeight() {
+        return this.weight;
+    }
+
+    public String getCollege() {
+        return this.college;
+    }
+
+    public int getYearOfBirth() {
+        return this.yearOfBirth;
+    }
+
+    public String getBirthCity() {
+        return this.birthCity;
+    }
+
+    public String getBirthState() {
+        return this.birthState;
+    }
 
     // Sets
-    public void setId(int id) { this.id = id; }
-    public void setName(String name) { this.name = name; }
-    public void setHeight(int height) { this.height = height; }
-    public void setWeight(int weight) { this.weight = weight; }
-    public void setCollege(String college) { this.college = college; }
-    public void setYearOfBirth(int yearOfBirth) { this.yearOfBirth = yearOfBirth; }
-    public void setBirthCity(String birthCity) { this.birthCity = birthCity; }
-    public void setBirthState(String birthState) { this.birthState = birthState; }
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public void setWeight(int weight) {
+        this.weight = weight;
+    }
+
+    public void setCollege(String college) {
+        this.college = college;
+    }
+
+    public void setYearOfBirth(int yearOfBirth) {
+        this.yearOfBirth = yearOfBirth;
+    }
+
+    public void setBirthCity(String birthCity) {
+        this.birthCity = birthCity;
+    }
+
+    public void setBirthState(String birthState) {
+        this.birthState = birthState;
+    }
 
     // Clone
-    public Player clone() { return new Player(this.id, this.name, this.height, this.weight, this.college, this.yearOfBirth, this.birthCity, this.birthState); }
+    public Player clone() {
+        return new Player(this.id, this.name, this.height, this.weight, this.college, this.yearOfBirth, this.birthCity,
+                this.birthState);
+    }
 
     // Print
     public void print() {
 
         System.out.printf("[%d ## %s ## %d ## %d ## %d ## %s ## %s ## %s]\n",
-            this.id, this.name, this.height, this.weight, this.yearOfBirth, this.college, this.birthCity, this.birthState);
+                this.id, this.name, this.height, this.weight, this.yearOfBirth, this.college, this.birthCity,
+                this.birthState);
     }
 
     // Read
@@ -90,9 +142,10 @@ public class Player {
         String[] splitted = line.split(",", -1);
 
         // Fill empty attributes
-        for(int i = 0; i < splitted.length; i++) {
+        for (int i = 0; i < splitted.length; i++) {
 
-            if(splitted[i].equals("")) splitted[i] = "nao informado";
+            if (splitted[i].equals(""))
+                splitted[i] = "nao informado";
         }
 
         // Set attributes
@@ -106,36 +159,37 @@ public class Player {
         this.birthState = splitted[7];
     }
 
-    // ---------------------------------------------------------------------------------------------------- //
-    //Classe lista flexivel
+    // ----------------------------------------------------------------------------------------------------
+    // //
+    // Classe lista flexivel
     public static class ListaFlex {
 
         class Celula {
             public Player elemento; // Elemento inserido na celula.
             public Celula prox; // Aponta a celula prox.
-    
+
             // Construtor da classe.
             public Celula() {
                 this(null);
             }
-    
+
             // Construtor da classe.
             public Celula(Player player) {
-                this.elemento = elemento;
+                this.elemento = player;
                 this.prox = null;
             }
         }
-    
+
         class Lista {
             private Celula primeiro;
             private Celula ultimo;
-    
+
             // Construtor da classe que cria uma lista sem elementos (somente no cabeca).
             public Lista() {
                 primeiro = new Celula();
                 ultimo = primeiro;
             }
-    
+
             // Remover inicio
             public void inserirInicio(Player player) {
                 Celula tmp = new Celula(player);
@@ -146,18 +200,18 @@ public class Player {
                 }
                 tmp = null;
             }
-    
+
             public void inserirFim(Player player) {
                 ultimo.prox = new Celula(player);
                 ultimo = ultimo.prox;
             }
-    
+
             // Remover inicio
             public Player removerInicio() throws Exception {
                 if (primeiro == ultimo) {
                     throw new Exception("Erro ao remover (vazia)!");
                 }
-    
+
                 Celula tmp = primeiro;
                 primeiro = primeiro.prox;
                 Player resp = primeiro.elemento;
@@ -165,30 +219,30 @@ public class Player {
                 tmp = null;
                 return resp;
             }
-    
+
             // Remover fim
             public Player removerFim() throws Exception {
                 if (primeiro == ultimo) {
                     throw new Exception("Erro ao remover (vazia)!");
                 }
-    
+
                 // Caminhar ate a penultima celula:
                 Celula i;
                 for (i = primeiro; i.prox != ultimo; i = i.prox)
                     ;
-    
+
                 Player resp = ultimo.elemento;
                 ultimo = i;
                 i = ultimo.prox = null;
-    
+
                 return resp;
             }
-    
+
             // Insere um elemento em uma posicao especifica considerando que o
             public void inserir(Player player, int pos) throws Exception {
-    
+
                 int tamanho = tamanho();
-    
+
                 if (pos < 0 || pos > tamanho) {
                     throw new Exception("Erro ao inserir posicao (" + pos + " / tamanho = " + tamanho + ") invalida!");
                 } else if (pos == 0) {
@@ -200,22 +254,22 @@ public class Player {
                     Celula i = primeiro;
                     for (int j = 0; j < pos; j++, i = i.prox)
                         ;
-    
+
                     Celula tmp = new Celula(player);
                     tmp.prox = i.prox;
                     i.prox = tmp;
                     tmp = i = null;
                 }
             }
-    
+
             // Remove um elemento de uma posicao especifica da lista
             public Player remover(int pos) throws Exception {
                 Player resp;
                 int tamanho = tamanho();
-    
+
                 if (primeiro == ultimo) {
                     throw new Exception("Erro ao remover (vazia)!");
-    
+
                 } else if (pos < 0 || pos >= tamanho) {
                     throw new Exception("Erro ao remover (posicao " + pos + " / " + tamanho + " invalida!");
                 } else if (pos == 0) {
@@ -227,28 +281,30 @@ public class Player {
                     Celula i = primeiro;
                     for (int j = 0; j < pos; j++, i = i.prox)
                         ;
-    
+
                     Celula tmp = i.prox;
                     resp = tmp.elemento;
                     i.prox = tmp.prox;
                     tmp.prox = null;
                     i = tmp = null;
                 }
-    
+
                 return resp;
             }
-    
+
             // Mostra os elementos da lista separados por espacos.
             public void mostrar() {
-                for (Celula i = primeiro.prox; i != null; i = i.prox) {
+                int contador = 0;
+                for (Celula i = primeiro.prox; i != null; i = i.prox, contador++) {
                     Player jogador = i.elemento;
-                        System.out.printf("[%d ## %s ## %d ## %d ## %d ## %s ## %s ## %s] ",
-                        jogador.getId(), jogador.getName(), jogador.getHeight(), jogador.getWeight(),
-                        jogador.getYearOfBirth(), jogador.getCollege(), jogador.getBirthCity(),
-                        jogador.getBirthState());
+                    System.out.printf("[%d] %s ## %d ## %d ## %d ## %s ## %s ## %s\n",
+                            contador, jogador.getName(), jogador.getHeight(), jogador.getWeight(),
+                            jogador.getYearOfBirth(), jogador.getCollege(), jogador.getBirthCity(),
+                            jogador.getBirthState());
+
+                }
             }
-        }
-    
+
             // Procura um elemento e retorna se ele existe.
             public boolean pesquisar(Player player) {
                 boolean resp = false;
@@ -260,7 +316,7 @@ public class Player {
                 }
                 return resp;
             }
-    
+
             // Calcula e retorna o tamanho, em numero de elementos, da lista.
             public int tamanho() {
                 int tamanho = 0;
@@ -271,9 +327,8 @@ public class Player {
         }
     }
 
-
-
-    // ---------------------------------------------------------------------------------------------------- //
+    // ----------------------------------------------------------------------------------------------------
+    // //
     // Read all players function
     public static void startPlayers() {
 
@@ -287,8 +342,8 @@ public class Player {
 
             // Explode CSV file
             String line = br.readLine();
-  
-            while((line = br.readLine()) != null) {
+
+            while ((line = br.readLine()) != null) {
 
                 // Initialize player
                 Player player = new Player();
@@ -302,27 +357,33 @@ public class Player {
 
             // Close CSV file
             fstream.close();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-        catch(IOException e) { e.printStackTrace(); }
     }
 
-    // ---------------------------------------------------------------------------------------------------- //
+    // ----------------------------------------------------------------------------------------------------
+    // //
 
     // Search by id function
     public static Player searchById(int id, ArrayList<Player> players) {
 
         // Search for player
-        for(int i = 0; i < players.size(); i++) {
+        for (int i = 0; i < players.size(); i++) {
 
-            if(players.get(i).getId() == id) return players.get(i);
+            if (players.get(i).getId() == id)
+                return players.get(i);
         }
         return null;
     }
 
-    // ---------------------------------------------------------------------------------------------------- //
+    // ----------------------------------------------------------------------------------------------------
+    // //
 
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) throws Exception {
+
+        Scanner scanner = new Scanner(System.in);
+
         // ----------------------------------------------------------------- //
 
         // #1 - Start - Read all players in CSV file
@@ -346,8 +407,8 @@ public class Player {
         // Read first line
         String line = inScanner.nextLine();
 
-        // While line is not "FIM"
-        while(!line.equals("FIM")) {
+        // While line is not "FIM
+        while (!line.equals("FIM")) {
 
             // Get id
             int id = Integer.parseInt(line);
@@ -356,17 +417,36 @@ public class Player {
             player = searchById(id, allPlayers);
 
             // Print player
-            if(player != null) lista.inserirInicio(player);
-            else System.out.println("Jogador nao encontrado.");
-            
+            lista.inserirInicio(player);
 
             // Read line
             line = inScanner.nextLine();
         }
 
+        int index = scanner.nextInt();
+        scanner.nextLine();
+
+        for (int i = 0; i < index; i++) {
+            String entrada = scanner.nextLine();
+            int Id = scanner.nextInt();
+            scanner.nextLine();
+
+            if (entrada.equals("II")) {
+                lista.inserirInicio(searchById(Id, allPlayers));
+            } else if (entrada.equals("IF")) {
+                lista.inserirFim(searchById(Id, allPlayers));
+            } else if (entrada.equals("R*")) {
+                lista.remover(Id);
+            } else if(entrada.equals("I*")){
+                int pos = scanner.nextInt();
+                scanner.nextLine();
+                lista.inserir(searchById(Id, allPlayers), pos);
+            }
+        }
+
         // ----------------------------------------------------------------- //
-        
-        //printar lista flex
+
+        // printar lista flex
         lista.mostrar();
 
         // ----------------------------------------------------------------- //
@@ -376,4 +456,5 @@ public class Player {
     }
 }
 
-// ---------------------------------------------------------------------------------------------------- //
+// ----------------------------------------------------------------------------------------------------
+// //
