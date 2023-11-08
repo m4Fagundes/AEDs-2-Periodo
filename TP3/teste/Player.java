@@ -14,6 +14,7 @@ public class Player {
 
     // Global variables
     public static final String FILE_PATH = "/tmp/players.csv";
+    //public static final String FILE_PATH = "players.csv";
     public static ArrayList<Player> allPlayers = new ArrayList<Player>();
 
     // -------------------------- //
@@ -422,25 +423,52 @@ public class Player {
             // Read line
             line = inScanner.nextLine();
         }
-
+        System.out.println(line);
         int index = scanner.nextInt();
         scanner.nextLine();
 
         for (int i = 0; i < index; i++) {
-            String entrada = scanner.nextLine();
-            int Id = scanner.nextInt();
-            scanner.nextLine();
+            String entrada = scanner.next();
+            //System.out.println(entrada);
 
-            if (entrada.equals("II")) {
+            if (entrada.equals("II")) 
+            {
+                int Id = scanner.nextInt();
+                scanner.nextLine();
                 lista.inserirInicio(searchById(Id, allPlayers));
-            } else if (entrada.equals("IF")) {
+            } 
+
+            else if (entrada.equals("IF")) 
+            {
+                int Id = scanner.nextInt();
+                scanner.nextLine();
                 lista.inserirFim(searchById(Id, allPlayers));
-            } else if (entrada.equals("R*")) {
-                lista.remover(Id);
-            } else if(entrada.equals("I*")){
+            } 
+
+            else if (entrada.equals("R*")) 
+            {
+                int Id = scanner.nextInt();
+                scanner.nextLine();
+                System.out.println("(R) " + lista.remover(Id).getName());
+            } 
+
+            else if(entrada.equals("I*"))
+            {
                 int pos = scanner.nextInt();
+                int Id = scanner.nextInt();
+                scanner.nextLine();
                 scanner.nextLine();
                 lista.inserir(searchById(Id, allPlayers), pos);
+            } 
+
+            else if(entrada.equals("RI"))
+            {
+                System.out.println("(R) " + lista.removerInicio().getName());
+            }
+
+            else if(entrada.equals("RF"))
+            {
+                System.out.println("(R) " + lista.removerFim().getName());
             }
         }
 
